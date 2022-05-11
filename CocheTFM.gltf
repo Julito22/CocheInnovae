@@ -1,0 +1,8831 @@
+{
+  "asset": {
+    "generator": "BabylonJS",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_lights_punctual"
+  ],
+  "extensions": {
+    "KHR_lights_punctual": {
+      "lights": [
+        {
+          "type": "directional"
+        }
+      ]
+    }
+  },
+  "buffers": [
+    {
+      "byteLength": 11090632,
+      "uri": "CocheTFM.bin"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Trunk_Glass",
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3059
+      },
+      "children": [
+        38,
+        79
+      ]
+    },
+    {
+      "name": "RuedaTD",
+      "scale": [
+        1,
+        1,
+        -1
+      ],
+      "rotation": [
+        0,
+        -1,
+        0,
+        6.123234e-17
+      ],
+      "children": [
+        84,
+        16
+      ]
+    },
+    {
+      "name": "RuedaTI",
+      "children": [
+        88,
+        7
+      ]
+    },
+    {
+      "name": "RuedaDI",
+      "translation": [
+        0,
+        0,
+        -2.33333445
+      ],
+      "children": [
+        100,
+        10
+      ]
+    },
+    {
+      "name": "Rueda (3)",
+      "children": [
+        94,
+        97
+      ]
+    },
+    {
+      "name": "Rueda (4)",
+      "children": [
+        62,
+        67,
+        71,
+        81,
+        91,
+        6
+      ]
+    },
+    {
+      "name": "Rueda (5)",
+      "children": [
+        83,
+        93
+      ]
+    },
+    {
+      "name": "Rueda",
+      "children": [
+        49,
+        50,
+        53,
+        55,
+        58,
+        9
+      ]
+    },
+    {
+      "name": "DoorLF_Paint",
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3016
+      },
+      "children": [
+        47,
+        92
+      ]
+    },
+    {
+      "name": "Rueda (1)",
+      "children": [
+        86,
+        98
+      ]
+    },
+    {
+      "name": "Rueda (6)",
+      "children": [
+        68,
+        69,
+        74,
+        75,
+        80,
+        13
+      ]
+    },
+    {
+      "name": "DoorRF_Glass",
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3027
+      },
+      "children": [
+        42,
+        45
+      ]
+    },
+    {
+      "name": "Coche",
+      "children": [
+        22,
+        24,
+        25,
+        26,
+        29,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        39,
+        43,
+        44,
+        46,
+        52,
+        57,
+        59,
+        60,
+        63,
+        65,
+        70,
+        73,
+        76,
+        78,
+        87,
+        96,
+        99,
+        101,
+        0,
+        8,
+        11,
+        14,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "name": "Rueda (7)",
+      "children": [
+        90,
+        95
+      ]
+    },
+    {
+      "name": "DoorLF_Glass",
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3017
+      },
+      "children": [
+        27,
+        41
+      ]
+    },
+    {
+      "name": "Trunk_Paint",
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3057
+      },
+      "children": [
+        64,
+        72
+      ]
+    },
+    {
+      "name": "Rueda (2)",
+      "children": [
+        51,
+        54,
+        66,
+        77,
+        82,
+        4
+      ]
+    },
+    {
+      "name": "DoorRF_Paint",
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3026
+      },
+      "children": [
+        30,
+        85
+      ]
+    },
+    {
+      "name": "Glass",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3033
+      },
+      "children": [
+        33,
+        56
+      ]
+    },
+    {
+      "name": "GlassInside",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3034
+      },
+      "children": [
+        28,
+        61
+      ]
+    },
+    {
+      "name": "RuedaDD",
+      "translation": [
+        0,
+        0,
+        -2.33333445
+      ],
+      "scale": [
+        1,
+        1,
+        -1
+      ],
+      "rotation": [
+        0,
+        -1,
+        0,
+        6.123234e-17
+      ],
+      "children": [
+        89,
+        5
+      ]
+    },
+    {
+      "name": "Coche sin interior",
+      "translation": [
+        0,
+        0.05,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        -1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "children": [
+        1,
+        2,
+        3,
+        12,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "DoorRF_Light",
+      "mesh": 0,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3025
+      }
+    },
+    {
+      "name": "cube",
+      "translation": [
+        -3,
+        0.5194425582885742,
+        0
+      ],
+      "scale": [
+        1,
+        1.048505425453186,
+        1
+      ],
+      "mesh": 1,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Grille6",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "mesh": 2,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3040
+      }
+    },
+    {
+      "name": "Trunk_Base",
+      "mesh": 3,
+      "extras": {
+        "currentUVSet": "map1",
+        "MaxHandle": 3055
+      }
+    },
+    {
+      "name": "Hood_Badge",
+      "mesh": 4,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3044
+      }
+    },
+    {
+      "name": "DoorLF_Glass_primitive0",
+      "mesh": 5
+    },
+    {
+      "name": "GlassInside_primitive1",
+      "mesh": 6
+    },
+    {
+      "name": "Hood_PistonUpperR_Coloured",
+      "mesh": 7,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3046
+      }
+    },
+    {
+      "name": "DoorRF_Paint_primitive1",
+      "mesh": 8
+    },
+    {
+      "name": "SeatBelt",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "mesh": 9,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3053
+      }
+    },
+    {
+      "name": "Engine",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "mesh": 10,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3032
+      }
+    },
+    {
+      "name": "Glass_primitive0",
+      "mesh": 11
+    },
+    {
+      "name": "Grille1",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "mesh": 12,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3035
+      }
+    },
+    {
+      "name": "Trunk_Badge",
+      "mesh": 13,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3060
+      }
+    },
+    {
+      "name": "Trunk_Interior",
+      "mesh": 14,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3058
+      }
+    },
+    {
+      "name": "DoorRF_Base",
+      "mesh": 15,
+      "extras": {
+        "currentUVSet": "map1",
+        "MaxHandle": 3024
+      }
+    },
+    {
+      "name": "Trunk_Glass_primitive0",
+      "mesh": 16
+    },
+    {
+      "name": "DoorLF_Base",
+      "mesh": 17,
+      "extras": {
+        "currentUVSet": "map1",
+        "MaxHandle": 3014
+      }
+    },
+    {
+      "name": "sky",
+      "mesh": 18,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DoorLF_Glass_primitive1",
+      "mesh": 19
+    },
+    {
+      "name": "DoorRF_Glass_primitive1",
+      "mesh": 20
+    },
+    {
+      "name": "Trunk_Coloured",
+      "mesh": 21,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3061
+      }
+    },
+    {
+      "name": "Hood_PistonUpperL_Coloured",
+      "mesh": 22,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3045
+      }
+    },
+    {
+      "name": "DoorRF_Glass_primitive0",
+      "mesh": 23
+    },
+    {
+      "name": "Hood_Paint",
+      "mesh": 24,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3043
+      }
+    },
+    {
+      "name": "DoorLF_Paint_primitive1",
+      "mesh": 25
+    },
+    {
+      "name": "ground",
+      "translation": [
+        0,
+        0,
+        2.2
+      ],
+      "mesh": 26,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Tuerca1",
+      "mesh": 27
+    },
+    {
+      "name": "Tuerca4",
+      "mesh": 28
+    },
+    {
+      "name": "Tuerca2 (1)",
+      "mesh": 29
+    },
+    {
+      "name": "Hood_PistonLowerL_Engine",
+      "mesh": 30,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3068
+      }
+    },
+    {
+      "name": "Tuerca3",
+      "mesh": 31
+    },
+    {
+      "name": "Tuerca4 (1)",
+      "mesh": 32
+    },
+    {
+      "name": "Tuerca5",
+      "mesh": 33
+    },
+    {
+      "name": "Glass_primitive1",
+      "mesh": 34
+    },
+    {
+      "name": "Hood_ArmUpper_Paint",
+      "mesh": 35,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3067
+      }
+    },
+    {
+      "name": "Tuerca2",
+      "mesh": 36
+    },
+    {
+      "name": "Badge",
+      "mesh": 37,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3010
+      }
+    },
+    {
+      "name": "Base",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "mesh": 38,
+      "extras": {
+        "currentUVSet": "map1",
+        "MaxHandle": 3011
+      }
+    },
+    {
+      "name": "GlassInside_primitive0",
+      "mesh": 39
+    },
+    {
+      "name": "Tuerca5 (2)",
+      "mesh": 40
+    },
+    {
+      "name": "DoorLF_Light",
+      "mesh": 41,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3015
+      }
+    },
+    {
+      "name": "Trunk_Paint_primitive0",
+      "mesh": 42
+    },
+    {
+      "name": "Hood_PistonLowerR_Engine",
+      "mesh": 43,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3069
+      }
+    },
+    {
+      "name": "Tuerca5 (1)",
+      "mesh": 44
+    },
+    {
+      "name": "Tuerca1 (2)",
+      "mesh": 45
+    },
+    {
+      "name": "Tuerca4 (3)",
+      "mesh": 46
+    },
+    {
+      "name": "Tuerca3 (3)",
+      "mesh": 47
+    },
+    {
+      "name": "DoorLF_Coloured",
+      "mesh": 48,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3021
+      }
+    },
+    {
+      "name": "Tuerca4 (2)",
+      "mesh": 49
+    },
+    {
+      "name": "Trunk_Paint_primitive1",
+      "mesh": 50
+    },
+    {
+      "name": "Hood_ArmLower_Paint",
+      "mesh": 51,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3070
+      }
+    },
+    {
+      "name": "Tuerca1 (3)",
+      "mesh": 52
+    },
+    {
+      "name": "Tuerca5 (3)",
+      "mesh": 53
+    },
+    {
+      "name": "DoorRF_Coloured",
+      "mesh": 54,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3031
+      }
+    },
+    {
+      "name": "Tuerca3 (1)",
+      "mesh": 55
+    },
+    {
+      "name": "Trunk_Light",
+      "mesh": 56,
+      "extras": {
+        "currentUVSet": "UVChannel_1",
+        "MaxHandle": 3056
+      }
+    },
+    {
+      "name": "Trunk_Glass_primitive1",
+      "mesh": 57
+    },
+    {
+      "name": "Tuerca2 (3)",
+      "mesh": 58
+    },
+    {
+      "name": "Tuerca2 (2)",
+      "mesh": 59
+    },
+    {
+      "name": "Tuerca1 (1)",
+      "mesh": 60
+    },
+    {
+      "name": "Rueda (5)_primitive1",
+      "mesh": 61
+    },
+    {
+      "name": "Caliper (1)",
+      "mesh": 62
+    },
+    {
+      "name": "DoorRF_Paint_primitive0",
+      "mesh": 63
+    },
+    {
+      "name": "Rueda (1)_primitive1",
+      "mesh": 64
+    },
+    {
+      "name": "Carbon1",
+      "mesh": 65,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3009
+      }
+    },
+    {
+      "name": "Caliper",
+      "mesh": 66
+    },
+    {
+      "name": "Caliper (2)",
+      "mesh": 67
+    },
+    {
+      "name": "Rueda (7)_primitive1",
+      "mesh": 68
+    },
+    {
+      "name": "Tuerca3 (2)",
+      "mesh": 69
+    },
+    {
+      "name": "DoorLF_Paint_primitive0",
+      "mesh": 70
+    },
+    {
+      "name": "Rueda (5)_primitive0",
+      "mesh": 71
+    },
+    {
+      "name": "Rueda (3)_primitive1",
+      "mesh": 72
+    },
+    {
+      "name": "Rueda (7)_primitive0",
+      "mesh": 73
+    },
+    {
+      "name": "Paint",
+      "mesh": 74,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3052
+      }
+    },
+    {
+      "name": "Rueda (3)_primitive0",
+      "mesh": 75
+    },
+    {
+      "name": "Rueda (1)_primitive0",
+      "mesh": 76
+    },
+    {
+      "name": "Light",
+      "translation": [
+        0,
+        0,
+        -2.26685429e-36
+      ],
+      "mesh": 77,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;MapChannel:2 = UV1&cr;&lf;",
+        "MaxHandle": 3051
+      }
+    },
+    {
+      "name": "Caliper (3)",
+      "mesh": 78
+    },
+    {
+      "name": "Coloured",
+      "mesh": 79,
+      "extras": {
+        "currentUVSet": "UV0",
+        "UDP3DSMAX": "MapChannel:1 = UV0&cr;&lf;",
+        "MaxHandle": 3066
+      }
+    },
+    {
+      "name": "sun",
+      "translation": [
+        -100,
+        100,
+        100
+      ],
+      "rotation": [
+        -0.4247082002778669,
+        -0.3398511429799873,
+        -0.17591989660616114,
+        0.8204732385702833
+      ],
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 0
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "COLOR_0": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 18
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7
+          },
+          "indices": 8,
+          "material": 3
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "COLOR_0": 11,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 13
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 14,
+            "NORMAL": 15
+          },
+          "indices": 16,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 17,
+            "NORMAL": 18,
+            "COLOR_0": 19,
+            "TEXCOORD_0": 20
+          },
+          "indices": 21,
+          "material": 16
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 22,
+            "NORMAL": 23,
+            "COLOR_0": 24
+          },
+          "indices": 25,
+          "material": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 26,
+            "NORMAL": 27
+          },
+          "indices": 28,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 29,
+            "NORMAL": 30,
+            "COLOR_0": 31
+          },
+          "indices": 32,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 33,
+            "NORMAL": 34,
+            "COLOR_0": 35,
+            "TEXCOORD_0": 36
+          },
+          "indices": 37,
+          "material": 14
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 38,
+            "NORMAL": 39
+          },
+          "indices": 40,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 41,
+            "NORMAL": 42
+          },
+          "indices": 43,
+          "material": 9
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 44,
+            "NORMAL": 45,
+            "COLOR_0": 46
+          },
+          "indices": 47,
+          "material": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 48,
+            "NORMAL": 49,
+            "COLOR_0": 50,
+            "TEXCOORD_0": 51
+          },
+          "indices": 52,
+          "material": 12
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 53,
+            "NORMAL": 54,
+            "TEXCOORD_0": 55
+          },
+          "indices": 56,
+          "material": 16
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 57,
+            "NORMAL": 58,
+            "TEXCOORD_0": 59,
+            "TEXCOORD_1": 60
+          },
+          "indices": 61,
+          "material": 15
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 62,
+            "NORMAL": 63,
+            "COLOR_0": 64
+          },
+          "indices": 65,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 66,
+            "NORMAL": 67
+          },
+          "indices": 68,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 69,
+            "NORMAL": 70,
+            "COLOR_0": 71
+          },
+          "indices": 72,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 73,
+            "NORMAL": 74,
+            "TEXCOORD_0": 75
+          },
+          "indices": 76
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 77,
+            "NORMAL": 78,
+            "COLOR_0": 79
+          },
+          "indices": 80,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 81,
+            "NORMAL": 82,
+            "COLOR_0": 83
+          },
+          "indices": 84,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 85,
+            "NORMAL": 86
+          },
+          "indices": 87,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 88,
+            "NORMAL": 89,
+            "COLOR_0": 90
+          },
+          "indices": 91,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 92,
+            "NORMAL": 93,
+            "COLOR_0": 94
+          },
+          "indices": 95,
+          "material": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 96,
+            "NORMAL": 97,
+            "TEXCOORD_0": 98
+          },
+          "indices": 99,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 100,
+            "NORMAL": 101,
+            "COLOR_0": 102,
+            "TEXCOORD_0": 103
+          },
+          "indices": 104,
+          "material": 14
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 105,
+            "NORMAL": 106
+          },
+          "indices": 107,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 108,
+            "NORMAL": 109,
+            "COLOR_0": 110,
+            "TEXCOORD_0": 111
+          },
+          "indices": 112,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 113,
+            "NORMAL": 114,
+            "COLOR_0": 115,
+            "TEXCOORD_0": 116
+          },
+          "indices": 117,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 118,
+            "NORMAL": 119,
+            "COLOR_0": 120,
+            "TEXCOORD_0": 121
+          },
+          "indices": 122,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 123,
+            "NORMAL": 124,
+            "COLOR_0": 125
+          },
+          "indices": 126,
+          "material": 9
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 127,
+            "NORMAL": 128,
+            "COLOR_0": 129,
+            "TEXCOORD_0": 130
+          },
+          "indices": 131,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 132,
+            "NORMAL": 133,
+            "COLOR_0": 134,
+            "TEXCOORD_0": 135
+          },
+          "indices": 136,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 137,
+            "NORMAL": 138,
+            "COLOR_0": 139,
+            "TEXCOORD_0": 140
+          },
+          "indices": 141,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 142,
+            "NORMAL": 143,
+            "COLOR_0": 144
+          },
+          "indices": 145,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 146,
+            "NORMAL": 147,
+            "TEXCOORD_0": 148
+          },
+          "indices": 149,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 150,
+            "NORMAL": 151,
+            "COLOR_0": 152,
+            "TEXCOORD_0": 153
+          },
+          "indices": 154,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 155,
+            "NORMAL": 156,
+            "COLOR_0": 157,
+            "TEXCOORD_0": 158
+          },
+          "indices": 159,
+          "material": 16
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 160,
+            "NORMAL": 161,
+            "COLOR_0": 162
+          },
+          "indices": 163,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 164,
+            "NORMAL": 165
+          },
+          "indices": 166,
+          "material": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 167,
+            "NORMAL": 168,
+            "COLOR_0": 169,
+            "TEXCOORD_0": 170
+          },
+          "indices": 171,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 172,
+            "NORMAL": 173,
+            "COLOR_0": 174,
+            "TEXCOORD_0": 175,
+            "TEXCOORD_1": 176
+          },
+          "indices": 177,
+          "material": 18
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 178,
+            "NORMAL": 179,
+            "TEXCOORD_0": 180
+          },
+          "indices": 181,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 182,
+            "NORMAL": 183,
+            "COLOR_0": 184
+          },
+          "indices": 185,
+          "material": 9
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 186,
+            "NORMAL": 187,
+            "COLOR_0": 188,
+            "TEXCOORD_0": 189
+          },
+          "indices": 190,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 191,
+            "NORMAL": 192,
+            "COLOR_0": 193,
+            "TEXCOORD_0": 194
+          },
+          "indices": 195,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 196,
+            "NORMAL": 197,
+            "COLOR_0": 198,
+            "TEXCOORD_0": 199
+          },
+          "indices": 200,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 201,
+            "NORMAL": 202,
+            "COLOR_0": 203,
+            "TEXCOORD_0": 204
+          },
+          "indices": 205,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 206,
+            "NORMAL": 207,
+            "COLOR_0": 208
+          },
+          "indices": 209,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 210,
+            "NORMAL": 211,
+            "COLOR_0": 212,
+            "TEXCOORD_0": 213
+          },
+          "indices": 214,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 215,
+            "NORMAL": 216,
+            "TEXCOORD_0": 217
+          },
+          "indices": 218,
+          "material": 14
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 219,
+            "NORMAL": 220,
+            "TEXCOORD_0": 221
+          },
+          "indices": 222,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 223,
+            "NORMAL": 224,
+            "COLOR_0": 225,
+            "TEXCOORD_0": 226
+          },
+          "indices": 227,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 228,
+            "NORMAL": 229,
+            "COLOR_0": 230,
+            "TEXCOORD_0": 231
+          },
+          "indices": 232,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 233,
+            "NORMAL": 234,
+            "COLOR_0": 235
+          },
+          "indices": 236,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 237,
+            "NORMAL": 238,
+            "COLOR_0": 239,
+            "TEXCOORD_0": 240
+          },
+          "indices": 241,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 242,
+            "NORMAL": 243,
+            "TEXCOORD_0": 244,
+            "TEXCOORD_1": 245
+          },
+          "indices": 246,
+          "material": 18
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 247,
+            "NORMAL": 248
+          },
+          "indices": 249,
+          "material": 10
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 250,
+            "NORMAL": 251,
+            "COLOR_0": 252,
+            "TEXCOORD_0": 253
+          },
+          "indices": 254,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 255,
+            "NORMAL": 256,
+            "COLOR_0": 257,
+            "TEXCOORD_0": 258
+          },
+          "indices": 259,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 260,
+            "NORMAL": 261,
+            "COLOR_0": 262,
+            "TEXCOORD_0": 263
+          },
+          "indices": 264,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 265,
+            "NORMAL": 266,
+            "COLOR_0": 267,
+            "TEXCOORD_0": 268
+          },
+          "indices": 269,
+          "material": 19
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 270,
+            "NORMAL": 271,
+            "COLOR_0": 272
+          },
+          "indices": 273,
+          "material": 11
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 274,
+            "NORMAL": 275,
+            "COLOR_0": 276,
+            "TEXCOORD_0": 277
+          },
+          "indices": 278,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 279,
+            "NORMAL": 280,
+            "COLOR_0": 281,
+            "TEXCOORD_0": 282
+          },
+          "indices": 283,
+          "material": 19
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 284,
+            "NORMAL": 285,
+            "COLOR_0": 286
+          },
+          "indices": 287,
+          "material": 8
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 288,
+            "NORMAL": 289,
+            "COLOR_0": 290
+          },
+          "indices": 291,
+          "material": 11
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 292,
+            "NORMAL": 293,
+            "COLOR_0": 294
+          },
+          "indices": 295,
+          "material": 11
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 296,
+            "NORMAL": 297,
+            "COLOR_0": 298,
+            "TEXCOORD_0": 299
+          },
+          "indices": 300,
+          "material": 19
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 301,
+            "NORMAL": 302,
+            "COLOR_0": 303,
+            "TEXCOORD_0": 304
+          },
+          "indices": 305,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 306,
+            "NORMAL": 307,
+            "COLOR_0": 308,
+            "TEXCOORD_0": 309
+          },
+          "indices": 310,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 311,
+            "NORMAL": 312,
+            "COLOR_0": 313,
+            "TEXCOORD_0": 314
+          },
+          "indices": 315,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 316,
+            "NORMAL": 317,
+            "COLOR_0": 318,
+            "TEXCOORD_0": 319
+          },
+          "indices": 320,
+          "material": 19
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 321,
+            "NORMAL": 322,
+            "COLOR_0": 323,
+            "TEXCOORD_0": 324
+          },
+          "indices": 325,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 326,
+            "NORMAL": 327,
+            "COLOR_0": 328,
+            "TEXCOORD_0": 329
+          },
+          "indices": 330,
+          "material": 20
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 331,
+            "NORMAL": 332,
+            "COLOR_0": 333,
+            "TEXCOORD_0": 334
+          },
+          "indices": 335,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 336,
+            "NORMAL": 337,
+            "COLOR_0": 338,
+            "TEXCOORD_0": 339
+          },
+          "indices": 340,
+          "material": 17
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 341,
+            "NORMAL": 342,
+            "COLOR_0": 343,
+            "TEXCOORD_0": 344,
+            "TEXCOORD_1": 345
+          },
+          "indices": 346,
+          "material": 18
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 347,
+            "NORMAL": 348,
+            "COLOR_0": 349
+          },
+          "indices": 350,
+          "material": 11
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 351,
+            "NORMAL": 352,
+            "COLOR_0": 353
+          },
+          "indices": 354,
+          "material": 6
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        21,
+        23,
+        40,
+        48,
+        102
+      ]
+    }
+  ],
+  "scene": 0,
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 300,
+      "name": "position - DoorRF_Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 300,
+      "byteOffset": 300,
+      "name": "normal - DoorRF_Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 400,
+      "byteOffset": 600,
+      "name": "color - DoorRF_Light",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200,
+      "byteOffset": 1000,
+      "name": "uv - DoorRF_Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200,
+      "byteOffset": 1200,
+      "name": "uv2 - DoorRF_Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 228,
+      "byteOffset": 1400,
+      "name": "Indices - DoorRF_Light"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 1628,
+      "name": "position - cube",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 1916,
+      "name": "normal - cube",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 2204,
+      "name": "uv - cube",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 2396,
+      "name": "Indices - cube"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 228,
+      "byteOffset": 2540,
+      "name": "position - Grille6",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 228,
+      "byteOffset": 2768,
+      "name": "normal - Grille6",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 304,
+      "byteOffset": 2996,
+      "name": "color - Grille6",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 152,
+      "byteOffset": 3300,
+      "name": "uv - Grille6",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96,
+      "byteOffset": 3452,
+      "name": "Indices - Grille6"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 912,
+      "byteOffset": 3548,
+      "name": "position - Trunk_Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 912,
+      "byteOffset": 4460,
+      "name": "normal - Trunk_Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 720,
+      "byteOffset": 5372,
+      "name": "Indices - Trunk_Base"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 348,
+      "byteOffset": 6092,
+      "name": "position - Hood_Badge",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 348,
+      "byteOffset": 6440,
+      "name": "normal - Hood_Badge",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 464,
+      "byteOffset": 6788,
+      "name": "color - Hood_Badge",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 232,
+      "byteOffset": 7252,
+      "name": "uv - Hood_Badge",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 240,
+      "byteOffset": 7484,
+      "name": "Indices - Hood_Badge"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1428,
+      "byteOffset": 7724,
+      "name": "position - DoorLF_Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1428,
+      "byteOffset": 9152,
+      "name": "normal - DoorLF_Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1904,
+      "byteOffset": 10580,
+      "name": "color - DoorLF_Glass_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 952,
+      "byteOffset": 12484,
+      "name": "uv - DoorLF_Glass_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1236,
+      "byteOffset": 13436,
+      "name": "Indices - DoorLF_Glass_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1392,
+      "byteOffset": 14672,
+      "name": "position - GlassInside_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1392,
+      "byteOffset": 16064,
+      "name": "normal - GlassInside_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 928,
+      "byteOffset": 17456,
+      "name": "uv - GlassInside_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1776,
+      "byteOffset": 18384,
+      "name": "Indices - GlassInside_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4116,
+      "byteOffset": 20160,
+      "name": "position - Hood_PistonUpperR_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4116,
+      "byteOffset": 24276,
+      "name": "normal - Hood_PistonUpperR_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5488,
+      "byteOffset": 28392,
+      "name": "color - Hood_PistonUpperR_Coloured",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2744,
+      "byteOffset": 33880,
+      "name": "uv - Hood_PistonUpperR_Coloured",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1848,
+      "byteOffset": 36624,
+      "name": "Indices - Hood_PistonUpperR_Coloured"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3276,
+      "byteOffset": 38472,
+      "name": "position - DoorRF_Paint_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3276,
+      "byteOffset": 41748,
+      "name": "normal - DoorRF_Paint_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4368,
+      "byteOffset": 45024,
+      "name": "color - DoorRF_Paint_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2184,
+      "byteOffset": 49392,
+      "name": "uv - DoorRF_Paint_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5556,
+      "byteOffset": 51576,
+      "name": "Indices - DoorRF_Paint_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 57132,
+      "name": "position - SeatBelt",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 57180,
+      "name": "normal - SeatBelt",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 57228,
+      "name": "uv - SeatBelt",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 57260,
+      "name": "Indices - SeatBelt"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2112,
+      "byteOffset": 57284,
+      "name": "position - Engine",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2112,
+      "byteOffset": 59396,
+      "name": "normal - Engine",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1408,
+      "byteOffset": 61508,
+      "name": "uv - Engine",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2208,
+      "byteOffset": 62916,
+      "name": "Indices - Engine"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4236,
+      "byteOffset": 65124,
+      "name": "position - Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4236,
+      "byteOffset": 69360,
+      "name": "normal - Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5648,
+      "byteOffset": 73596,
+      "name": "color - Glass_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2824,
+      "byteOffset": 79244,
+      "name": "uv - Glass_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4776,
+      "byteOffset": 82068,
+      "name": "Indices - Glass_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3300,
+      "byteOffset": 86844,
+      "name": "position - Grille1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3300,
+      "byteOffset": 90144,
+      "name": "normal - Grille1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4400,
+      "byteOffset": 93444,
+      "name": "color - Grille1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2200,
+      "byteOffset": 97844,
+      "name": "uv - Grille1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 100044,
+      "name": "Indices - Grille1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 348,
+      "byteOffset": 102396,
+      "name": "position - Trunk_Badge",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 348,
+      "byteOffset": 102744,
+      "name": "normal - Trunk_Badge",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 232,
+      "byteOffset": 103092,
+      "name": "uv - Trunk_Badge",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 103324,
+      "name": "Indices - Trunk_Badge"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 103612,
+      "name": "position - Trunk_Interior",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 103660,
+      "name": "normal - Trunk_Interior",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 103708,
+      "name": "uv - Trunk_Interior",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 103740,
+      "name": "uv2 - Trunk_Interior",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 103772,
+      "name": "Indices - Trunk_Interior"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 480,
+      "byteOffset": 103796,
+      "name": "position - DoorRF_Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 480,
+      "byteOffset": 104276,
+      "name": "normal - DoorRF_Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 640,
+      "byteOffset": 104756,
+      "name": "color - DoorRF_Base",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 432,
+      "byteOffset": 105396,
+      "name": "Indices - DoorRF_Base"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5160,
+      "byteOffset": 105828,
+      "name": "position - Trunk_Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5160,
+      "byteOffset": 110988,
+      "name": "normal - Trunk_Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3440,
+      "byteOffset": 116148,
+      "name": "uv - Trunk_Glass_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6192,
+      "byteOffset": 119588,
+      "name": "Indices - Trunk_Glass_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 624,
+      "byteOffset": 125780,
+      "name": "position - DoorLF_Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 624,
+      "byteOffset": 126404,
+      "name": "normal - DoorLF_Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 832,
+      "byteOffset": 127028,
+      "name": "color - DoorLF_Base",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 444,
+      "byteOffset": 127860,
+      "name": "Indices - DoorLF_Base"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 128304,
+      "name": "position - sky",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 128592,
+      "name": "normal - sky",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 128880,
+      "name": "uv - sky",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 129072,
+      "name": "Indices - sky"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1224,
+      "byteOffset": 129216,
+      "name": "position - DoorLF_Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1224,
+      "byteOffset": 130440,
+      "name": "normal - DoorLF_Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1632,
+      "byteOffset": 131664,
+      "name": "color - DoorLF_Glass_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 133296,
+      "name": "uv - DoorLF_Glass_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1308,
+      "byteOffset": 134112,
+      "name": "Indices - DoorLF_Glass_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1140,
+      "byteOffset": 135420,
+      "name": "position - DoorRF_Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1140,
+      "byteOffset": 136560,
+      "name": "normal - DoorRF_Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1520,
+      "byteOffset": 137700,
+      "name": "color - DoorRF_Glass_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 760,
+      "byteOffset": 139220,
+      "name": "uv - DoorRF_Glass_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1308,
+      "byteOffset": 139980,
+      "name": "Indices - DoorRF_Glass_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3456,
+      "byteOffset": 141288,
+      "name": "position - Trunk_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3456,
+      "byteOffset": 144744,
+      "name": "normal - Trunk_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2304,
+      "byteOffset": 148200,
+      "name": "uv - Trunk_Coloured",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3804,
+      "byteOffset": 150504,
+      "name": "Indices - Trunk_Coloured"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5292,
+      "byteOffset": 154308,
+      "name": "position - Hood_PistonUpperL_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5292,
+      "byteOffset": 159600,
+      "name": "normal - Hood_PistonUpperL_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7056,
+      "byteOffset": 164892,
+      "name": "color - Hood_PistonUpperL_Coloured",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3528,
+      "byteOffset": 171948,
+      "name": "uv - Hood_PistonUpperL_Coloured",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1848,
+      "byteOffset": 175476,
+      "name": "Indices - Hood_PistonUpperL_Coloured"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1440,
+      "byteOffset": 177324,
+      "name": "position - DoorRF_Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1440,
+      "byteOffset": 178764,
+      "name": "normal - DoorRF_Glass_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1920,
+      "byteOffset": 180204,
+      "name": "color - DoorRF_Glass_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 960,
+      "byteOffset": 182124,
+      "name": "uv - DoorRF_Glass_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1236,
+      "byteOffset": 183084,
+      "name": "Indices - DoorRF_Glass_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11148,
+      "byteOffset": 184320,
+      "name": "position - Hood_Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11148,
+      "byteOffset": 195468,
+      "name": "normal - Hood_Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7432,
+      "byteOffset": 206616,
+      "name": "uv - Hood_Paint",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20256,
+      "byteOffset": 214048,
+      "name": "Indices - Hood_Paint"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3276,
+      "byteOffset": 234304,
+      "name": "position - DoorLF_Paint_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3276,
+      "byteOffset": 237580,
+      "name": "normal - DoorLF_Paint_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4368,
+      "byteOffset": 240856,
+      "name": "color - DoorLF_Paint_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2184,
+      "byteOffset": 245224,
+      "name": "uv - DoorLF_Paint_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5556,
+      "byteOffset": 247408,
+      "name": "Indices - DoorLF_Paint_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13068,
+      "byteOffset": 252964,
+      "name": "position - ground",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13068,
+      "byteOffset": 266032,
+      "name": "normal - ground",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8712,
+      "byteOffset": 279100,
+      "name": "uv - ground",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24576,
+      "byteOffset": 287812,
+      "name": "Indices - ground"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 312388,
+      "name": "position - Tuerca1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 314464,
+      "name": "normal - Tuerca1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2768,
+      "byteOffset": 316540,
+      "name": "color - Tuerca1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1384,
+      "byteOffset": 319308,
+      "name": "uv - Tuerca1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 320692,
+      "name": "Indices - Tuerca1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 321508,
+      "name": "position - Tuerca4",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 323032,
+      "name": "normal - Tuerca4",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2032,
+      "byteOffset": 324556,
+      "name": "color - Tuerca4",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1016,
+      "byteOffset": 326588,
+      "name": "uv - Tuerca4",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 327604,
+      "name": "Indices - Tuerca4"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 328420,
+      "name": "position - Tuerca2 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 330016,
+      "name": "normal - Tuerca2 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2128,
+      "byteOffset": 331612,
+      "name": "color - Tuerca2 (1)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1064,
+      "byteOffset": 333740,
+      "name": "uv - Tuerca2 (1)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 334804,
+      "name": "Indices - Tuerca2 (1)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3420,
+      "byteOffset": 335620,
+      "name": "position - Hood_PistonLowerL_Engine",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3420,
+      "byteOffset": 339040,
+      "name": "normal - Hood_PistonLowerL_Engine",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4560,
+      "byteOffset": 342460,
+      "name": "color - Hood_PistonLowerL_Engine",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2280,
+      "byteOffset": 347020,
+      "name": "uv - Hood_PistonLowerL_Engine",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1344,
+      "byteOffset": 349300,
+      "name": "Indices - Hood_PistonLowerL_Engine"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 350644,
+      "name": "position - Tuerca3",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 352300,
+      "name": "normal - Tuerca3",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2208,
+      "byteOffset": 353956,
+      "name": "color - Tuerca3",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1104,
+      "byteOffset": 356164,
+      "name": "uv - Tuerca3",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 357268,
+      "name": "Indices - Tuerca3"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 358084,
+      "name": "position - Tuerca4 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 359608,
+      "name": "normal - Tuerca4 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2032,
+      "byteOffset": 361132,
+      "name": "color - Tuerca4 (1)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1016,
+      "byteOffset": 363164,
+      "name": "uv - Tuerca4 (1)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 364180,
+      "name": "Indices - Tuerca4 (1)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 364996,
+      "name": "position - Tuerca5",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 366616,
+      "name": "normal - Tuerca5",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2160,
+      "byteOffset": 368236,
+      "name": "color - Tuerca5",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1080,
+      "byteOffset": 370396,
+      "name": "uv - Tuerca5",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 371476,
+      "name": "Indices - Tuerca5"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19920,
+      "byteOffset": 372292,
+      "name": "position - Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19920,
+      "byteOffset": 392212,
+      "name": "normal - Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26560,
+      "byteOffset": 412132,
+      "name": "color - Glass_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13280,
+      "byteOffset": 438692,
+      "name": "uv - Glass_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26016,
+      "byteOffset": 451972,
+      "name": "Indices - Glass_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3648,
+      "byteOffset": 477988,
+      "name": "position - Hood_ArmUpper_Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3648,
+      "byteOffset": 481636,
+      "name": "normal - Hood_ArmUpper_Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2432,
+      "byteOffset": 485284,
+      "name": "uv - Hood_ArmUpper_Paint",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3264,
+      "byteOffset": 487716,
+      "name": "Indices - Hood_ArmUpper_Paint"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 490980,
+      "name": "position - Tuerca2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 492576,
+      "name": "normal - Tuerca2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2128,
+      "byteOffset": 494172,
+      "name": "color - Tuerca2",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1064,
+      "byteOffset": 496300,
+      "name": "uv - Tuerca2",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 497364,
+      "name": "Indices - Tuerca2"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25284,
+      "byteOffset": 498180,
+      "name": "position - Badge",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25284,
+      "byteOffset": 523464,
+      "name": "normal - Badge",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33712,
+      "byteOffset": 548748,
+      "name": "color - Badge",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16856,
+      "byteOffset": 582460,
+      "name": "uv - Badge",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19152,
+      "byteOffset": 599316,
+      "name": "Indices - Badge"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18756,
+      "byteOffset": 618468,
+      "name": "position - Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18756,
+      "byteOffset": 637224,
+      "name": "normal - Base",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25008,
+      "byteOffset": 655980,
+      "name": "color - Base",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14592,
+      "byteOffset": 680988,
+      "name": "Indices - Base"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2268,
+      "byteOffset": 695580,
+      "name": "position - GlassInside_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2268,
+      "byteOffset": 697848,
+      "name": "normal - GlassInside_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1512,
+      "byteOffset": 700116,
+      "name": "uv - GlassInside_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2976,
+      "byteOffset": 701628,
+      "name": "Indices - GlassInside_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 704604,
+      "name": "position - Tuerca5 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 706224,
+      "name": "normal - Tuerca5 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2160,
+      "byteOffset": 707844,
+      "name": "color - Tuerca5 (2)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1080,
+      "byteOffset": 710004,
+      "name": "uv - Tuerca5 (2)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 711084,
+      "name": "Indices - Tuerca5 (2)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 711900,
+      "name": "position - DoorLF_Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 712188,
+      "name": "normal - DoorLF_Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 384,
+      "byteOffset": 712476,
+      "name": "color - DoorLF_Light",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 712860,
+      "name": "uv - DoorLF_Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 713052,
+      "name": "uv2 - DoorLF_Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 228,
+      "byteOffset": 713244,
+      "name": "Indices - DoorLF_Light"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14244,
+      "byteOffset": 713472,
+      "name": "position - Trunk_Paint_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14244,
+      "byteOffset": 727716,
+      "name": "normal - Trunk_Paint_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9496,
+      "byteOffset": 741960,
+      "name": "uv - Trunk_Paint_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22680,
+      "byteOffset": 751456,
+      "name": "Indices - Trunk_Paint_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3720,
+      "byteOffset": 774136,
+      "name": "position - Hood_PistonLowerR_Engine",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3720,
+      "byteOffset": 777856,
+      "name": "normal - Hood_PistonLowerR_Engine",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4960,
+      "byteOffset": 781576,
+      "name": "color - Hood_PistonLowerR_Engine",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2480,
+      "byteOffset": 786536,
+      "name": "uv - Hood_PistonLowerR_Engine",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1344,
+      "byteOffset": 789016,
+      "name": "Indices - Hood_PistonLowerR_Engine"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 790360,
+      "name": "position - Tuerca5 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 791980,
+      "name": "normal - Tuerca5 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2160,
+      "byteOffset": 793600,
+      "name": "color - Tuerca5 (1)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1080,
+      "byteOffset": 795760,
+      "name": "uv - Tuerca5 (1)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 796840,
+      "name": "Indices - Tuerca5 (1)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 797656,
+      "name": "position - Tuerca1 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 799732,
+      "name": "normal - Tuerca1 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2768,
+      "byteOffset": 801808,
+      "name": "color - Tuerca1 (2)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1384,
+      "byteOffset": 804576,
+      "name": "uv - Tuerca1 (2)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 805960,
+      "name": "Indices - Tuerca1 (2)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 806776,
+      "name": "position - Tuerca4 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 808300,
+      "name": "normal - Tuerca4 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2032,
+      "byteOffset": 809824,
+      "name": "color - Tuerca4 (3)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1016,
+      "byteOffset": 811856,
+      "name": "uv - Tuerca4 (3)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 812872,
+      "name": "Indices - Tuerca4 (3)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 813688,
+      "name": "position - Tuerca3 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 815344,
+      "name": "normal - Tuerca3 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2208,
+      "byteOffset": 817000,
+      "name": "color - Tuerca3 (3)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1104,
+      "byteOffset": 819208,
+      "name": "uv - Tuerca3 (3)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 820312,
+      "name": "Indices - Tuerca3 (3)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25344,
+      "byteOffset": 821128,
+      "name": "position - DoorLF_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25344,
+      "byteOffset": 846472,
+      "name": "normal - DoorLF_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33792,
+      "byteOffset": 871816,
+      "name": "color - DoorLF_Coloured",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16896,
+      "byteOffset": 905608,
+      "name": "uv - DoorLF_Coloured",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28272,
+      "byteOffset": 922504,
+      "name": "Indices - DoorLF_Coloured"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 950776,
+      "name": "position - Tuerca4 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1524,
+      "byteOffset": 952300,
+      "name": "normal - Tuerca4 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2032,
+      "byteOffset": 953824,
+      "name": "color - Tuerca4 (2)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1016,
+      "byteOffset": 955856,
+      "name": "uv - Tuerca4 (2)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 956872,
+      "name": "Indices - Tuerca4 (2)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6576,
+      "byteOffset": 957688,
+      "name": "position - Trunk_Paint_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6576,
+      "byteOffset": 964264,
+      "name": "normal - Trunk_Paint_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4384,
+      "byteOffset": 970840,
+      "name": "uv - Trunk_Paint_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10848,
+      "byteOffset": 975224,
+      "name": "Indices - Trunk_Paint_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2868,
+      "byteOffset": 986072,
+      "name": "position - Hood_ArmLower_Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2868,
+      "byteOffset": 988940,
+      "name": "normal - Hood_ArmLower_Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1912,
+      "byteOffset": 991808,
+      "name": "uv - Hood_ArmLower_Paint",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2496,
+      "byteOffset": 993720,
+      "name": "Indices - Hood_ArmLower_Paint"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 996216,
+      "name": "position - Tuerca1 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 998292,
+      "name": "normal - Tuerca1 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2768,
+      "byteOffset": 1000368,
+      "name": "color - Tuerca1 (3)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1384,
+      "byteOffset": 1003136,
+      "name": "uv - Tuerca1 (3)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 1004520,
+      "name": "Indices - Tuerca1 (3)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 1005336,
+      "name": "position - Tuerca5 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1620,
+      "byteOffset": 1006956,
+      "name": "normal - Tuerca5 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2160,
+      "byteOffset": 1008576,
+      "name": "color - Tuerca5 (3)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1080,
+      "byteOffset": 1010736,
+      "name": "uv - Tuerca5 (3)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 1011816,
+      "name": "Indices - Tuerca5 (3)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23856,
+      "byteOffset": 1012632,
+      "name": "position - DoorRF_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23856,
+      "byteOffset": 1036488,
+      "name": "normal - DoorRF_Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31808,
+      "byteOffset": 1060344,
+      "name": "color - DoorRF_Coloured",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15904,
+      "byteOffset": 1092152,
+      "name": "uv - DoorRF_Coloured",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26856,
+      "byteOffset": 1108056,
+      "name": "Indices - DoorRF_Coloured"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 1134912,
+      "name": "position - Tuerca3 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 1136568,
+      "name": "normal - Tuerca3 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2208,
+      "byteOffset": 1138224,
+      "name": "color - Tuerca3 (1)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1104,
+      "byteOffset": 1140432,
+      "name": "uv - Tuerca3 (1)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 1141536,
+      "name": "Indices - Tuerca3 (1)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27816,
+      "byteOffset": 1142352,
+      "name": "position - Trunk_Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27816,
+      "byteOffset": 1170168,
+      "name": "normal - Trunk_Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18544,
+      "byteOffset": 1197984,
+      "name": "uv - Trunk_Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18544,
+      "byteOffset": 1216528,
+      "name": "uv2 - Trunk_Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27552,
+      "byteOffset": 1235072,
+      "name": "Indices - Trunk_Light"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4968,
+      "byteOffset": 1262624,
+      "name": "position - Trunk_Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4968,
+      "byteOffset": 1267592,
+      "name": "normal - Trunk_Glass_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3312,
+      "byteOffset": 1272560,
+      "name": "uv - Trunk_Glass_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6456,
+      "byteOffset": 1275872,
+      "name": "Indices - Trunk_Glass_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 1282328,
+      "name": "position - Tuerca2 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 1283924,
+      "name": "normal - Tuerca2 (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2128,
+      "byteOffset": 1285520,
+      "name": "color - Tuerca2 (3)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1064,
+      "byteOffset": 1287648,
+      "name": "uv - Tuerca2 (3)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 1288712,
+      "name": "Indices - Tuerca2 (3)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 1289528,
+      "name": "position - Tuerca2 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1596,
+      "byteOffset": 1291124,
+      "name": "normal - Tuerca2 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2128,
+      "byteOffset": 1292720,
+      "name": "color - Tuerca2 (2)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1064,
+      "byteOffset": 1294848,
+      "name": "uv - Tuerca2 (2)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 1295912,
+      "name": "Indices - Tuerca2 (2)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 1296728,
+      "name": "position - Tuerca1 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2076,
+      "byteOffset": 1298804,
+      "name": "normal - Tuerca1 (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2768,
+      "byteOffset": 1300880,
+      "name": "color - Tuerca1 (1)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1384,
+      "byteOffset": 1303648,
+      "name": "uv - Tuerca1 (1)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 1305032,
+      "name": "Indices - Tuerca1 (1)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 1305848,
+      "name": "position - Rueda (5)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 1338212,
+      "name": "normal - Rueda (5)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43152,
+      "byteOffset": 1370576,
+      "name": "color - Rueda (5)_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21576,
+      "byteOffset": 1413728,
+      "name": "uv - Rueda (5)_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14160,
+      "byteOffset": 1435304,
+      "name": "Indices - Rueda (5)_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 1449464,
+      "name": "position - Caliper (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 1474328,
+      "name": "normal - Caliper (1)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33152,
+      "byteOffset": 1499192,
+      "name": "color - Caliper (1)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16576,
+      "byteOffset": 1532344,
+      "name": "uv - Caliper (1)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18156,
+      "byteOffset": 1548920,
+      "name": "Indices - Caliper (1)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45132,
+      "byteOffset": 1567076,
+      "name": "position - DoorRF_Paint_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45132,
+      "byteOffset": 1612208,
+      "name": "normal - DoorRF_Paint_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 60176,
+      "byteOffset": 1657340,
+      "name": "color - DoorRF_Paint_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30088,
+      "byteOffset": 1717516,
+      "name": "uv - DoorRF_Paint_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27924,
+      "byteOffset": 1747604,
+      "name": "Indices - DoorRF_Paint_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 1775528,
+      "name": "position - Rueda (1)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 1807892,
+      "name": "normal - Rueda (1)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43152,
+      "byteOffset": 1840256,
+      "name": "color - Rueda (1)_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21576,
+      "byteOffset": 1883408,
+      "name": "uv - Rueda (1)_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14160,
+      "byteOffset": 1904984,
+      "name": "Indices - Rueda (1)_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58116,
+      "byteOffset": 1919144,
+      "name": "position - Carbon1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58116,
+      "byteOffset": 1977260,
+      "name": "normal - Carbon1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77488,
+      "byteOffset": 2035376,
+      "name": "color - Carbon1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38744,
+      "byteOffset": 2112864,
+      "name": "uv - Carbon1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45912,
+      "byteOffset": 2151608,
+      "name": "Indices - Carbon1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 2197520,
+      "name": "position - Caliper",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 2222384,
+      "name": "normal - Caliper",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33152,
+      "byteOffset": 2247248,
+      "name": "color - Caliper",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16576,
+      "byteOffset": 2280400,
+      "name": "uv - Caliper",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18156,
+      "byteOffset": 2296976,
+      "name": "Indices - Caliper"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 2315132,
+      "name": "position - Caliper (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 2339996,
+      "name": "normal - Caliper (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33152,
+      "byteOffset": 2364860,
+      "name": "color - Caliper (2)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16576,
+      "byteOffset": 2398012,
+      "name": "uv - Caliper (2)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18156,
+      "byteOffset": 2414588,
+      "name": "Indices - Caliper (2)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 2432744,
+      "name": "position - Rueda (7)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 2465108,
+      "name": "normal - Rueda (7)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43152,
+      "byteOffset": 2497472,
+      "name": "color - Rueda (7)_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21576,
+      "byteOffset": 2540624,
+      "name": "uv - Rueda (7)_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14160,
+      "byteOffset": 2562200,
+      "name": "Indices - Rueda (7)_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 2576360,
+      "name": "position - Tuerca3 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1656,
+      "byteOffset": 2578016,
+      "name": "normal - Tuerca3 (2)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2208,
+      "byteOffset": 2579672,
+      "name": "color - Tuerca3 (2)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1104,
+      "byteOffset": 2581880,
+      "name": "uv - Tuerca3 (2)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 2582984,
+      "name": "Indices - Tuerca3 (2)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 42516,
+      "byteOffset": 2583800,
+      "name": "position - DoorLF_Paint_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 42516,
+      "byteOffset": 2626316,
+      "name": "normal - DoorLF_Paint_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 56688,
+      "byteOffset": 2668832,
+      "name": "color - DoorLF_Paint_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28344,
+      "byteOffset": 2725520,
+      "name": "uv - DoorLF_Paint_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27924,
+      "byteOffset": 2753864,
+      "name": "Indices - DoorLF_Paint_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 2781788,
+      "name": "position - Rueda (5)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 2970344,
+      "name": "normal - Rueda (5)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 251408,
+      "byteOffset": 3158900,
+      "name": "color - Rueda (5)_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 125704,
+      "byteOffset": 3410308,
+      "name": "uv - Rueda (5)_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86748,
+      "byteOffset": 3536012,
+      "name": "Indices - Rueda (5)_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 3622760,
+      "name": "position - Rueda (3)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32364,
+      "byteOffset": 3655124,
+      "name": "normal - Rueda (3)_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43152,
+      "byteOffset": 3687488,
+      "name": "color - Rueda (3)_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21576,
+      "byteOffset": 3730640,
+      "name": "uv - Rueda (3)_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14160,
+      "byteOffset": 3752216,
+      "name": "Indices - Rueda (3)_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 3766376,
+      "name": "position - Rueda (7)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 3954932,
+      "name": "normal - Rueda (7)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 251408,
+      "byteOffset": 4143488,
+      "name": "color - Rueda (7)_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 125704,
+      "byteOffset": 4394896,
+      "name": "uv - Rueda (7)_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86748,
+      "byteOffset": 4520600,
+      "name": "Indices - Rueda (7)_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256992,
+      "byteOffset": 4607348,
+      "name": "position - Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256992,
+      "byteOffset": 4864340,
+      "name": "normal - Paint",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 342656,
+      "byteOffset": 5121332,
+      "name": "color - Paint",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 171328,
+      "byteOffset": 5463988,
+      "name": "uv - Paint",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 193608,
+      "byteOffset": 5635316,
+      "name": "Indices - Paint"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 5828924,
+      "name": "position - Rueda (3)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 6017480,
+      "name": "normal - Rueda (3)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 251408,
+      "byteOffset": 6206036,
+      "name": "color - Rueda (3)_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 125704,
+      "byteOffset": 6457444,
+      "name": "uv - Rueda (3)_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86748,
+      "byteOffset": 6583148,
+      "name": "Indices - Rueda (3)_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 6669896,
+      "name": "position - Rueda (1)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188556,
+      "byteOffset": 6858452,
+      "name": "normal - Rueda (1)_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 251408,
+      "byteOffset": 7047008,
+      "name": "color - Rueda (1)_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 125704,
+      "byteOffset": 7298416,
+      "name": "uv - Rueda (1)_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86748,
+      "byteOffset": 7424120,
+      "name": "Indices - Rueda (1)_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 250932,
+      "byteOffset": 7510868,
+      "name": "position - Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 250932,
+      "byteOffset": 7761800,
+      "name": "normal - Light",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 334576,
+      "byteOffset": 8012732,
+      "name": "color - Light",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 167288,
+      "byteOffset": 8347308,
+      "name": "uv - Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 167288,
+      "byteOffset": 8514596,
+      "name": "uv2 - Light",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188928,
+      "byteOffset": 8681884,
+      "name": "Indices - Light"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 8870812,
+      "name": "position - Caliper (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 8895676,
+      "name": "normal - Caliper (3)",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33152,
+      "byteOffset": 8920540,
+      "name": "color - Caliper (3)",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16576,
+      "byteOffset": 8953692,
+      "name": "uv - Caliper (3)",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18156,
+      "byteOffset": 8970268,
+      "name": "Indices - Caliper (3)"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 458496,
+      "byteOffset": 8988424,
+      "name": "position - Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 458496,
+      "byteOffset": 9446920,
+      "name": "normal - Coloured",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 611328,
+      "byteOffset": 9905416,
+      "name": "color - Coloured",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 305664,
+      "byteOffset": 10516744,
+      "name": "uv - Coloured",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 268224,
+      "byteOffset": 10822408,
+      "name": "Indices - Coloured"
+    }
+  ],
+  "accessors": [
+    {
+      "name": "position - DoorRF_Light",
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 25,
+      "type": "VEC3",
+      "min": [
+        -0.8849464058876038,
+        0.8124385476112366,
+        -0.4742441177368164
+      ],
+      "max": [
+        -0.7599700093269348,
+        0.8293436169624329,
+        -0.33978891372680664
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Light",
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 25,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Light",
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 25,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - DoorRF_Light",
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 25,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv2 - DoorRF_Light",
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 25,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Light",
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 57,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cube",
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cube",
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cube",
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Grille6",
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 19,
+      "type": "VEC3",
+      "min": [
+        -0.6565570831298828,
+        0.11596520245075226,
+        -1.693839430809021
+      ],
+      "max": [
+        0.6565570831298828,
+        0.5989434123039246,
+        4.1416365093027707e-7
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Grille6",
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 19,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Grille6",
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 19,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Grille6",
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 19,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Grille6",
+      "bufferView": 14,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Base",
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 76,
+      "type": "VEC3",
+      "min": [
+        -0.5310487747192383,
+        0.6778882741928101,
+        1.802228331565857
+      ],
+      "max": [
+        0.5310487747192383,
+        0.7439515590667725,
+        1.9043242931365967
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Base",
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 76,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Base",
+      "bufferView": 17,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_Badge",
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC3",
+      "min": [
+        -0.034580860286951065,
+        0.5901449918746948,
+        -1.9316046237945557
+      ],
+      "max": [
+        0.03460614010691643,
+        0.6290258765220642,
+        -1.875017523765564
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_Badge",
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Hood_Badge",
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Hood_Badge",
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_Badge",
+      "bufferView": 22,
+      "componentType": 5125,
+      "count": 60,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Glass_primitive0",
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 119,
+      "type": "VEC3",
+      "min": [
+        0.7598387598991394,
+        0.8124287724494934,
+        -0.4758251905441284
+      ],
+      "max": [
+        0.8903546929359436,
+        0.8293336033821106,
+        -0.33842089772224426
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Glass_primitive0",
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 119,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Glass_primitive0",
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 119,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Glass_primitive0",
+      "bufferView": 27,
+      "componentType": 5125,
+      "count": 309,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - GlassInside_primitive1",
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 116,
+      "type": "VEC3",
+      "min": [
+        -0.5630006790161133,
+        0.8221855163574219,
+        -0.6667944192886353
+      ],
+      "max": [
+        0.5630006790161133,
+        1.0546470880508423,
+        -0.16034510731697083
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - GlassInside_primitive1",
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 116,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - GlassInside_primitive1",
+      "bufferView": 31,
+      "componentType": 5125,
+      "count": 444,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_PistonUpperR_Coloured",
+      "bufferView": 32,
+      "componentType": 5126,
+      "count": 343,
+      "type": "VEC3",
+      "min": [
+        -0.5896948575973511,
+        0.6723592281341553,
+        -0.961003303527832
+      ],
+      "max": [
+        -0.5520805716514587,
+        0.746078610420227,
+        -0.8308168053627014
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_PistonUpperR_Coloured",
+      "bufferView": 33,
+      "componentType": 5126,
+      "count": 343,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Hood_PistonUpperR_Coloured",
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 343,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_PistonUpperR_Coloured",
+      "bufferView": 36,
+      "componentType": 5125,
+      "count": 462,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorRF_Paint_primitive1",
+      "bufferView": 37,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC3",
+      "min": [
+        -0.8873730897903442,
+        0.7757737040519714,
+        -0.4831484854221344
+      ],
+      "max": [
+        -0.6612830758094788,
+        0.8769425749778748,
+        -0.33978891372680664
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Paint_primitive1",
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Paint_primitive1",
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - DoorRF_Paint_primitive1",
+      "bufferView": 40,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Paint_primitive1",
+      "bufferView": 41,
+      "componentType": 5125,
+      "count": 1389,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - SeatBelt",
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "min": [
+        -3.9497513171227183e-7,
+        0.11596520245075226,
+        -3.949646156797826e-7
+      ],
+      "max": [
+        3.9497513171227183e-7,
+        0.11596520245075226,
+        3.94977519135864e-7
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - SeatBelt",
+      "bufferView": 43,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - SeatBelt",
+      "bufferView": 45,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Engine",
+      "bufferView": 46,
+      "componentType": 5126,
+      "count": 176,
+      "type": "VEC3",
+      "min": [
+        -0.6936395168304443,
+        0.45199790596961975,
+        -1.8794515132904053
+      ],
+      "max": [
+        0.6936395168304443,
+        0.8135055303573608,
+        -0.6678372621536255
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Engine",
+      "bufferView": 47,
+      "componentType": 5126,
+      "count": 176,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Engine",
+      "bufferView": 49,
+      "componentType": 5125,
+      "count": 552,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Glass_primitive0",
+      "bufferView": 50,
+      "componentType": 5126,
+      "count": 353,
+      "type": "VEC3",
+      "min": [
+        -0.6260955929756165,
+        0.8254168629646301,
+        -0.6684206128120422
+      ],
+      "max": [
+        0.6260955929756165,
+        1.0586879253387451,
+        1.5357420444488525
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Glass_primitive0",
+      "bufferView": 51,
+      "componentType": 5126,
+      "count": 353,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Glass_primitive0",
+      "bufferView": 52,
+      "componentType": 5126,
+      "count": 353,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Glass_primitive0",
+      "bufferView": 54,
+      "componentType": 5125,
+      "count": 1194,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Grille1",
+      "bufferView": 55,
+      "componentType": 5126,
+      "count": 275,
+      "type": "VEC3",
+      "min": [
+        -0.6784170866012573,
+        0.11596520245075226,
+        -1.9285424947738647
+      ],
+      "max": [
+        0.6784170866012573,
+        0.3495579957962036,
+        4.1416365093027707e-7
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Grille1",
+      "bufferView": 56,
+      "componentType": 5126,
+      "count": 275,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Grille1",
+      "bufferView": 57,
+      "componentType": 5126,
+      "count": 275,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Grille1",
+      "bufferView": 58,
+      "componentType": 5126,
+      "count": 275,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Grille1",
+      "bufferView": 59,
+      "componentType": 5125,
+      "count": 588,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Badge",
+      "bufferView": 60,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC3",
+      "min": [
+        -0.2355947643518448,
+        0.6565029621124268,
+        1.9107732772827148
+      ],
+      "max": [
+        0.03389834612607956,
+        0.7345879673957825,
+        1.9350032806396484
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Badge",
+      "bufferView": 61,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Trunk_Badge",
+      "bufferView": 62,
+      "componentType": 5126,
+      "count": 29,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Badge",
+      "bufferView": 63,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Interior",
+      "bufferView": 64,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "min": [
+        0.2808936536312103,
+        0.6121634244918823,
+        1.8106615543365479
+      ],
+      "max": [
+        0.2999030351638794,
+        0.6125297546386719,
+        1.8284586668014526
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Interior",
+      "bufferView": 65,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Trunk_Interior",
+      "bufferView": 66,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv2 - Trunk_Interior",
+      "bufferView": 67,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Interior",
+      "bufferView": 68,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorRF_Base",
+      "bufferView": 69,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC3",
+      "min": [
+        -0.6685633063316345,
+        0.7681394219398499,
+        -0.3903931677341461
+      ],
+      "max": [
+        -0.6248822212219238,
+        0.8741823434829712,
+        0.4167930483818054
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Base",
+      "bufferView": 70,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Base",
+      "bufferView": 71,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Base",
+      "bufferView": 72,
+      "componentType": 5125,
+      "count": 108,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Glass_primitive0",
+      "bufferView": 73,
+      "componentType": 5126,
+      "count": 430,
+      "type": "VEC3",
+      "min": [
+        -0.5314532518386841,
+        0.6633278727531433,
+        1.8006107807159424
+      ],
+      "max": [
+        0.5314532518386841,
+        0.7439515590667725,
+        1.9189003705978394
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Glass_primitive0",
+      "bufferView": 74,
+      "componentType": 5126,
+      "count": 430,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Glass_primitive0",
+      "bufferView": 76,
+      "componentType": 5125,
+      "count": 1548,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Base",
+      "bufferView": 77,
+      "componentType": 5126,
+      "count": 52,
+      "type": "VEC3",
+      "min": [
+        0.6246481537818909,
+        0.7681315541267395,
+        -0.39044371247291565
+      ],
+      "max": [
+        0.668354332447052,
+        0.8741738200187683,
+        0.4167211055755615
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Base",
+      "bufferView": 78,
+      "componentType": 5126,
+      "count": 52,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Base",
+      "bufferView": 79,
+      "componentType": 5126,
+      "count": 52,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Base",
+      "bufferView": 80,
+      "componentType": 5125,
+      "count": 111,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - sky",
+      "bufferView": 81,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "min": [
+        -2500,
+        -2500,
+        -2500
+      ],
+      "max": [
+        2500,
+        2500,
+        2500
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - sky",
+      "bufferView": 82,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - sky",
+      "bufferView": 83,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - sky",
+      "bufferView": 84,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Glass_primitive1",
+      "bufferView": 85,
+      "componentType": 5126,
+      "count": 102,
+      "type": "VEC3",
+      "min": [
+        0.5257469415664673,
+        0.7693447470664978,
+        -0.39044371247291565
+      ],
+      "max": [
+        0.6683543920516968,
+        1.0443449020385742,
+        0.48603248596191406
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Glass_primitive1",
+      "bufferView": 86,
+      "componentType": 5126,
+      "count": 102,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Glass_primitive1",
+      "bufferView": 87,
+      "componentType": 5126,
+      "count": 102,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Glass_primitive1",
+      "bufferView": 89,
+      "componentType": 5125,
+      "count": 327,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorRF_Glass_primitive1",
+      "bufferView": 90,
+      "componentType": 5126,
+      "count": 95,
+      "type": "VEC3",
+      "min": [
+        -0.6685633063316345,
+        0.7693527340888977,
+        -0.3903931677341461
+      ],
+      "max": [
+        -0.5265995860099792,
+        1.044373869895935,
+        0.48619788885116577
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Glass_primitive1",
+      "bufferView": 91,
+      "componentType": 5126,
+      "count": 95,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Glass_primitive1",
+      "bufferView": 92,
+      "componentType": 5126,
+      "count": 95,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Glass_primitive1",
+      "bufferView": 94,
+      "componentType": 5125,
+      "count": 327,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Coloured",
+      "bufferView": 95,
+      "componentType": 5126,
+      "count": 288,
+      "type": "VEC3",
+      "min": [
+        -0.4922211468219757,
+        0.5756420493125916,
+        1.8139013051986694
+      ],
+      "max": [
+        0.4922211468219757,
+        0.6551244854927063,
+        1.948231816291809
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Coloured",
+      "bufferView": 96,
+      "componentType": 5126,
+      "count": 288,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Coloured",
+      "bufferView": 98,
+      "componentType": 5125,
+      "count": 951,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_PistonUpperL_Coloured",
+      "bufferView": 99,
+      "componentType": 5126,
+      "count": 441,
+      "type": "VEC3",
+      "min": [
+        0.5520803928375244,
+        0.6723591685295105,
+        -0.9610030651092529
+      ],
+      "max": [
+        0.5896946787834167,
+        0.7460784912109375,
+        -0.8308168053627014
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_PistonUpperL_Coloured",
+      "bufferView": 100,
+      "componentType": 5126,
+      "count": 441,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Hood_PistonUpperL_Coloured",
+      "bufferView": 101,
+      "componentType": 5126,
+      "count": 441,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_PistonUpperL_Coloured",
+      "bufferView": 103,
+      "componentType": 5125,
+      "count": 462,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorRF_Glass_primitive0",
+      "bufferView": 104,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC3",
+      "min": [
+        -0.8906087279319763,
+        0.812435507774353,
+        -0.47586187720298767
+      ],
+      "max": [
+        -0.7599700093269348,
+        0.8293463587760925,
+        -0.33857446908950806
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Glass_primitive0",
+      "bufferView": 105,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Glass_primitive0",
+      "bufferView": 106,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Glass_primitive0",
+      "bufferView": 108,
+      "componentType": 5125,
+      "count": 309,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_Paint",
+      "bufferView": 109,
+      "componentType": 5126,
+      "count": 929,
+      "type": "VEC3",
+      "min": [
+        -0.6964706778526306,
+        0.5381790995597839,
+        -1.9623149633407593
+      ],
+      "max": [
+        0.6964706778526306,
+        0.8153553605079651,
+        -0.6788139939308167
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_Paint",
+      "bufferView": 110,
+      "componentType": 5126,
+      "count": 929,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Hood_Paint",
+      "bufferView": 111,
+      "componentType": 5126,
+      "count": 929,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_Paint",
+      "bufferView": 112,
+      "componentType": 5125,
+      "count": 5064,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Paint_primitive1",
+      "bufferView": 113,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC3",
+      "min": [
+        0.6610732078552246,
+        0.7757658362388611,
+        -0.48314833641052246
+      ],
+      "max": [
+        0.8871192932128906,
+        0.8769341707229614,
+        -0.33963823318481445
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Paint_primitive1",
+      "bufferView": 114,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Paint_primitive1",
+      "bufferView": 115,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - DoorLF_Paint_primitive1",
+      "bufferView": 116,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Paint_primitive1",
+      "bufferView": 117,
+      "componentType": 5125,
+      "count": 1389,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - ground",
+      "bufferView": 118,
+      "componentType": 5126,
+      "count": 1089,
+      "type": "VEC3",
+      "min": [
+        -64,
+        0,
+        -64
+      ],
+      "max": [
+        64,
+        0,
+        64
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - ground",
+      "bufferView": 119,
+      "componentType": 5126,
+      "count": 1089,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - ground",
+      "bufferView": 121,
+      "componentType": 5125,
+      "count": 6144,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca1",
+      "bufferView": 122,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "min": [
+        0.6964975595474243,
+        0.29741647839546204,
+        1.1384228467941284
+      ],
+      "max": [
+        0.7071329951286316,
+        0.31570255756378174,
+        1.156119465827942
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca1",
+      "bufferView": 123,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca1",
+      "bufferView": 124,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca1",
+      "bufferView": 125,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca1",
+      "bufferView": 126,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca4",
+      "bufferView": 127,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "min": [
+        0.6978314518928528,
+        0.24649903178215027,
+        1.0502192974090576
+      ],
+      "max": [
+        0.708463191986084,
+        0.26476138830184937,
+        1.0679534673690796
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca4",
+      "bufferView": 128,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca4",
+      "bufferView": 129,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca4",
+      "bufferView": 130,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca4",
+      "bufferView": 131,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca2 (1)",
+      "bufferView": 132,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "min": [
+        0.6981193423271179,
+        0.23630109429359436,
+        1.1512761116027832
+      ],
+      "max": [
+        0.7087416052818298,
+        0.25377026200294495,
+        1.169440746307373
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca2 (1)",
+      "bufferView": 133,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca2 (1)",
+      "bufferView": 134,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca2 (1)",
+      "bufferView": 135,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca2 (1)",
+      "bufferView": 136,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_PistonLowerL_Engine",
+      "bufferView": 137,
+      "componentType": 5126,
+      "count": 285,
+      "type": "VEC3",
+      "min": [
+        0.5597651600837708,
+        0.6500672101974487,
+        -1.003666639328003
+      ],
+      "max": [
+        0.5969749093055725,
+        0.7329504489898682,
+        -0.8517670035362244
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_PistonLowerL_Engine",
+      "bufferView": 138,
+      "componentType": 5126,
+      "count": 285,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Hood_PistonLowerL_Engine",
+      "bufferView": 139,
+      "componentType": 5126,
+      "count": 285,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_PistonLowerL_Engine",
+      "bufferView": 141,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca3",
+      "bufferView": 142,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "min": [
+        0.6989443898200989,
+        0.20484435558319092,
+        1.0967888832092285
+      ],
+      "max": [
+        0.7095696926116943,
+        0.2222624570131302,
+        1.1149471998214722
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca3",
+      "bufferView": 143,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca3",
+      "bufferView": 144,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca3",
+      "bufferView": 145,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca3",
+      "bufferView": 146,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca4 (1)",
+      "bufferView": 147,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "min": [
+        0.6978314518928528,
+        0.24649903178215027,
+        1.0502192974090576
+      ],
+      "max": [
+        0.708463191986084,
+        0.26476138830184937,
+        1.0679534673690796
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca4 (1)",
+      "bufferView": 148,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca4 (1)",
+      "bufferView": 149,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca4 (1)",
+      "bufferView": 150,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca4 (1)",
+      "bufferView": 151,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca5",
+      "bufferView": 152,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "min": [
+        0.6963250041007996,
+        0.30394941568374634,
+        1.0763922929763794
+      ],
+      "max": [
+        0.7069612741470337,
+        0.3222927153110504,
+        1.0929415225982666
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca5",
+      "bufferView": 153,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca5",
+      "bufferView": 154,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca5",
+      "bufferView": 155,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca5",
+      "bufferView": 156,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Glass_primitive1",
+      "bufferView": 157,
+      "componentType": 5126,
+      "count": 1660,
+      "type": "VEC3",
+      "min": [
+        -0.7413651347160339,
+        0.3311968445777893,
+        -1.8842965364456177
+      ],
+      "max": [
+        0.7413651347160339,
+        0.7768427133560181,
+        1.8607052564620972
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Glass_primitive1",
+      "bufferView": 158,
+      "componentType": 5126,
+      "count": 1660,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Glass_primitive1",
+      "bufferView": 159,
+      "componentType": 5126,
+      "count": 1660,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Glass_primitive1",
+      "bufferView": 161,
+      "componentType": 5125,
+      "count": 6504,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_ArmUpper_Paint",
+      "bufferView": 162,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC3",
+      "min": [
+        -0.6042550802230835,
+        0.7139348387718201,
+        -0.8630717992782593
+      ],
+      "max": [
+        0.6042550802230835,
+        0.7793271541595459,
+        -0.7410646677017212
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_ArmUpper_Paint",
+      "bufferView": 163,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Hood_ArmUpper_Paint",
+      "bufferView": 164,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_ArmUpper_Paint",
+      "bufferView": 165,
+      "componentType": 5125,
+      "count": 816,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca2",
+      "bufferView": 166,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "min": [
+        0.6981193423271179,
+        0.23630109429359436,
+        1.1512761116027832
+      ],
+      "max": [
+        0.7087416052818298,
+        0.25377026200294495,
+        1.169440746307373
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca2",
+      "bufferView": 167,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca2",
+      "bufferView": 168,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca2",
+      "bufferView": 169,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca2",
+      "bufferView": 170,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Badge",
+      "bufferView": 171,
+      "componentType": 5126,
+      "count": 2107,
+      "type": "VEC3",
+      "min": [
+        -0.7773615717887878,
+        0.2882292568683624,
+        -1.9602172374725342
+      ],
+      "max": [
+        0.7773615717887878,
+        0.7787278294563293,
+        0.1852291226387024
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Badge",
+      "bufferView": 172,
+      "componentType": 5126,
+      "count": 2107,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Badge",
+      "bufferView": 173,
+      "componentType": 5126,
+      "count": 2107,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Badge",
+      "bufferView": 174,
+      "componentType": 5126,
+      "count": 2107,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Badge",
+      "bufferView": 175,
+      "componentType": 5125,
+      "count": 4788,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Base",
+      "bufferView": 176,
+      "componentType": 5126,
+      "count": 1563,
+      "type": "VEC3",
+      "min": [
+        -0.730040431022644,
+        0.11816944926977158,
+        -1.9690074920654297
+      ],
+      "max": [
+        0.7216318249702454,
+        1.0586879253387451,
+        1.913332223892212
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Base",
+      "bufferView": 177,
+      "componentType": 5126,
+      "count": 1563,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Base",
+      "bufferView": 178,
+      "componentType": 5126,
+      "count": 1563,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Base",
+      "bufferView": 179,
+      "componentType": 5125,
+      "count": 3648,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - GlassInside_primitive0",
+      "bufferView": 180,
+      "componentType": 5126,
+      "count": 189,
+      "type": "VEC3",
+      "min": [
+        -0.6232644319534302,
+        0.8425952792167664,
+        0.5436956882476807
+      ],
+      "max": [
+        0.6232644319534302,
+        1.0436289310455322,
+        1.534943699836731
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - GlassInside_primitive0",
+      "bufferView": 181,
+      "componentType": 5126,
+      "count": 189,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - GlassInside_primitive0",
+      "bufferView": 183,
+      "componentType": 5125,
+      "count": 744,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca5 (2)",
+      "bufferView": 184,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "min": [
+        0.6963250041007996,
+        0.30394941568374634,
+        1.0763922929763794
+      ],
+      "max": [
+        0.7069612741470337,
+        0.3222927153110504,
+        1.0929415225982666
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca5 (2)",
+      "bufferView": 185,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca5 (2)",
+      "bufferView": 186,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca5 (2)",
+      "bufferView": 187,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca5 (2)",
+      "bufferView": 188,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Light",
+      "bufferView": 189,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "min": [
+        0.7598387598991394,
+        0.8124317526817322,
+        -0.4742088317871094
+      ],
+      "max": [
+        0.8847125768661499,
+        0.8293309807777405,
+        -0.33963823318481445
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Light",
+      "bufferView": 190,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Light",
+      "bufferView": 191,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - DoorLF_Light",
+      "bufferView": 192,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv2 - DoorLF_Light",
+      "bufferView": 193,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Light",
+      "bufferView": 194,
+      "componentType": 5125,
+      "count": 57,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Paint_primitive0",
+      "bufferView": 195,
+      "componentType": 5126,
+      "count": 1187,
+      "type": "VEC3",
+      "min": [
+        -0.6487450003623962,
+        0.5909307599067688,
+        1.450828194618225
+      ],
+      "max": [
+        0.6487450003623962,
+        0.8833900094032288,
+        1.9509378671646118
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Paint_primitive0",
+      "bufferView": 196,
+      "componentType": 5126,
+      "count": 1187,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Trunk_Paint_primitive0",
+      "bufferView": 197,
+      "componentType": 5126,
+      "count": 1187,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Paint_primitive0",
+      "bufferView": 198,
+      "componentType": 5125,
+      "count": 5670,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_PistonLowerR_Engine",
+      "bufferView": 199,
+      "componentType": 5126,
+      "count": 310,
+      "type": "VEC3",
+      "min": [
+        -0.5969752073287964,
+        0.6500672101974487,
+        -1.003666639328003
+      ],
+      "max": [
+        -0.5597652792930603,
+        0.7329504489898682,
+        -0.85176682472229
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_PistonLowerR_Engine",
+      "bufferView": 200,
+      "componentType": 5126,
+      "count": 310,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Hood_PistonLowerR_Engine",
+      "bufferView": 201,
+      "componentType": 5126,
+      "count": 310,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_PistonLowerR_Engine",
+      "bufferView": 203,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca5 (1)",
+      "bufferView": 204,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "min": [
+        0.6963250041007996,
+        0.30394941568374634,
+        1.0763922929763794
+      ],
+      "max": [
+        0.7069612741470337,
+        0.3222927153110504,
+        1.0929415225982666
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca5 (1)",
+      "bufferView": 205,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca5 (1)",
+      "bufferView": 206,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca5 (1)",
+      "bufferView": 207,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca5 (1)",
+      "bufferView": 208,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca1 (2)",
+      "bufferView": 209,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "min": [
+        0.6964975595474243,
+        0.29741647839546204,
+        1.1384228467941284
+      ],
+      "max": [
+        0.7071329951286316,
+        0.31570255756378174,
+        1.156119465827942
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca1 (2)",
+      "bufferView": 210,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca1 (2)",
+      "bufferView": 211,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca1 (2)",
+      "bufferView": 212,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca1 (2)",
+      "bufferView": 213,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca4 (3)",
+      "bufferView": 214,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "min": [
+        0.6978314518928528,
+        0.24649903178215027,
+        1.0502192974090576
+      ],
+      "max": [
+        0.708463191986084,
+        0.26476138830184937,
+        1.0679534673690796
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca4 (3)",
+      "bufferView": 215,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca4 (3)",
+      "bufferView": 216,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca4 (3)",
+      "bufferView": 217,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca4 (3)",
+      "bufferView": 218,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca3 (3)",
+      "bufferView": 219,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "min": [
+        0.6989443898200989,
+        0.20484435558319092,
+        1.0967888832092285
+      ],
+      "max": [
+        0.7095696926116943,
+        0.2222624570131302,
+        1.1149471998214722
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca3 (3)",
+      "bufferView": 220,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca3 (3)",
+      "bufferView": 221,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca3 (3)",
+      "bufferView": 222,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca3 (3)",
+      "bufferView": 223,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Coloured",
+      "bufferView": 224,
+      "componentType": 5126,
+      "count": 2112,
+      "type": "VEC3",
+      "min": [
+        0.6102429628372192,
+        0.3628942370414734,
+        -0.650145947933197
+      ],
+      "max": [
+        0.8855008482933044,
+        0.8765368461608887,
+        0.4683423638343811
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Coloured",
+      "bufferView": 225,
+      "componentType": 5126,
+      "count": 2112,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Coloured",
+      "bufferView": 226,
+      "componentType": 5126,
+      "count": 2112,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Coloured",
+      "bufferView": 228,
+      "componentType": 5125,
+      "count": 7068,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca4 (2)",
+      "bufferView": 229,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "min": [
+        0.6978314518928528,
+        0.24649903178215027,
+        1.0502192974090576
+      ],
+      "max": [
+        0.708463191986084,
+        0.26476138830184937,
+        1.0679534673690796
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca4 (2)",
+      "bufferView": 230,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca4 (2)",
+      "bufferView": 231,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca4 (2)",
+      "bufferView": 232,
+      "componentType": 5126,
+      "count": 127,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca4 (2)",
+      "bufferView": 233,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Paint_primitive1",
+      "bufferView": 234,
+      "componentType": 5126,
+      "count": 548,
+      "type": "VEC3",
+      "min": [
+        -0.38220953941345215,
+        0.8317645192146301,
+        1.8197933435440063
+      ],
+      "max": [
+        0.38220953941345215,
+        0.8716509342193604,
+        1.9167901277542114
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Paint_primitive1",
+      "bufferView": 235,
+      "componentType": 5126,
+      "count": 548,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Trunk_Paint_primitive1",
+      "bufferView": 236,
+      "componentType": 5126,
+      "count": 548,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Paint_primitive1",
+      "bufferView": 237,
+      "componentType": 5125,
+      "count": 2712,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Hood_ArmLower_Paint",
+      "bufferView": 238,
+      "componentType": 5126,
+      "count": 239,
+      "type": "VEC3",
+      "min": [
+        -0.6050639748573303,
+        0.7105334401130676,
+        -0.7882478833198547
+      ],
+      "max": [
+        0.6050639748573303,
+        0.7818124294281006,
+        -0.7075033187866211
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Hood_ArmLower_Paint",
+      "bufferView": 239,
+      "componentType": 5126,
+      "count": 239,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Hood_ArmLower_Paint",
+      "bufferView": 240,
+      "componentType": 5126,
+      "count": 239,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Hood_ArmLower_Paint",
+      "bufferView": 241,
+      "componentType": 5125,
+      "count": 624,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca1 (3)",
+      "bufferView": 242,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "min": [
+        0.6964975595474243,
+        0.29741647839546204,
+        1.1384228467941284
+      ],
+      "max": [
+        0.7071329951286316,
+        0.31570255756378174,
+        1.156119465827942
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca1 (3)",
+      "bufferView": 243,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca1 (3)",
+      "bufferView": 244,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca1 (3)",
+      "bufferView": 245,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca1 (3)",
+      "bufferView": 246,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca5 (3)",
+      "bufferView": 247,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "min": [
+        0.6963250041007996,
+        0.30394941568374634,
+        1.0763922929763794
+      ],
+      "max": [
+        0.7069612741470337,
+        0.3222927153110504,
+        1.0929415225982666
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca5 (3)",
+      "bufferView": 248,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca5 (3)",
+      "bufferView": 249,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca5 (3)",
+      "bufferView": 250,
+      "componentType": 5126,
+      "count": 135,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca5 (3)",
+      "bufferView": 251,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorRF_Coloured",
+      "bufferView": 252,
+      "componentType": 5126,
+      "count": 1988,
+      "type": "VEC3",
+      "min": [
+        -0.8857553005218506,
+        0.37527358531951904,
+        -0.6345365047454834
+      ],
+      "max": [
+        -0.6111305952072144,
+        0.8765449523925781,
+        0.46834924817085266
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Coloured",
+      "bufferView": 253,
+      "componentType": 5126,
+      "count": 1988,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Coloured",
+      "bufferView": 254,
+      "componentType": 5126,
+      "count": 1988,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Coloured",
+      "bufferView": 256,
+      "componentType": 5125,
+      "count": 6714,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca3 (1)",
+      "bufferView": 257,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "min": [
+        0.6989443898200989,
+        0.20484435558319092,
+        1.0967888832092285
+      ],
+      "max": [
+        0.7095696926116943,
+        0.2222624570131302,
+        1.1149471998214722
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca3 (1)",
+      "bufferView": 258,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca3 (1)",
+      "bufferView": 259,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca3 (1)",
+      "bufferView": 260,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca3 (1)",
+      "bufferView": 261,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Light",
+      "bufferView": 262,
+      "componentType": 5126,
+      "count": 2318,
+      "type": "VEC3",
+      "min": [
+        -0.5314532518386841,
+        0.593787670135498,
+        1.802228331565857
+      ],
+      "max": [
+        0.5314532518386841,
+        0.7439515590667725,
+        1.9304262399673462
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Light",
+      "bufferView": 263,
+      "componentType": 5126,
+      "count": 2318,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Trunk_Light",
+      "bufferView": 264,
+      "componentType": 5126,
+      "count": 2318,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv2 - Trunk_Light",
+      "bufferView": 265,
+      "componentType": 5126,
+      "count": 2318,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Light",
+      "bufferView": 266,
+      "componentType": 5125,
+      "count": 6888,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Trunk_Glass_primitive1",
+      "bufferView": 267,
+      "componentType": 5126,
+      "count": 414,
+      "type": "VEC3",
+      "min": [
+        -0.5185106992721558,
+        0.65437912940979,
+        1.8265918493270874
+      ],
+      "max": [
+        0.5185106992721558,
+        0.7145112156867981,
+        1.922094702720642
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Trunk_Glass_primitive1",
+      "bufferView": 268,
+      "componentType": 5126,
+      "count": 414,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Trunk_Glass_primitive1",
+      "bufferView": 270,
+      "componentType": 5125,
+      "count": 1614,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca2 (3)",
+      "bufferView": 271,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "min": [
+        0.6981193423271179,
+        0.23630109429359436,
+        1.1512761116027832
+      ],
+      "max": [
+        0.7087416052818298,
+        0.25377026200294495,
+        1.169440746307373
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca2 (3)",
+      "bufferView": 272,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca2 (3)",
+      "bufferView": 273,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca2 (3)",
+      "bufferView": 274,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca2 (3)",
+      "bufferView": 275,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca2 (2)",
+      "bufferView": 276,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "min": [
+        0.6981193423271179,
+        0.23630109429359436,
+        1.1512761116027832
+      ],
+      "max": [
+        0.7087416052818298,
+        0.25377026200294495,
+        1.169440746307373
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca2 (2)",
+      "bufferView": 277,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca2 (2)",
+      "bufferView": 278,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca2 (2)",
+      "bufferView": 279,
+      "componentType": 5126,
+      "count": 133,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca2 (2)",
+      "bufferView": 280,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca1 (1)",
+      "bufferView": 281,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "min": [
+        0.6964975595474243,
+        0.29741647839546204,
+        1.1384228467941284
+      ],
+      "max": [
+        0.7071329951286316,
+        0.31570255756378174,
+        1.156119465827942
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca1 (1)",
+      "bufferView": 282,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca1 (1)",
+      "bufferView": 283,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca1 (1)",
+      "bufferView": 284,
+      "componentType": 5126,
+      "count": 173,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca1 (1)",
+      "bufferView": 285,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (5)_primitive1",
+      "bufferView": 286,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "min": [
+        0.557903528213501,
+        -0.05796632543206215,
+        0.7898766398429871
+      ],
+      "max": [
+        0.8007009029388428,
+        0.5890403985977173,
+        1.4330168962478638
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (5)_primitive1",
+      "bufferView": 287,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (5)_primitive1",
+      "bufferView": 288,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (5)_primitive1",
+      "bufferView": 289,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (5)_primitive1",
+      "bufferView": 290,
+      "componentType": 5125,
+      "count": 3540,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Caliper (1)",
+      "bufferView": 291,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "min": [
+        0.5671368837356567,
+        0.11320587247610092,
+        0.9193447828292847
+      ],
+      "max": [
+        0.6964575052261353,
+        0.42449086904525757,
+        1.267054796218872
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Caliper (1)",
+      "bufferView": 292,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Caliper (1)",
+      "bufferView": 293,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Caliper (1)",
+      "bufferView": 295,
+      "componentType": 5125,
+      "count": 4539,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorRF_Paint_primitive0",
+      "bufferView": 296,
+      "componentType": 5126,
+      "count": 3761,
+      "type": "VEC3",
+      "min": [
+        -0.7805971503257751,
+        0.20753882825374603,
+        -0.6677387356758118
+      ],
+      "max": [
+        -0.6422735452651978,
+        0.8010287880897522,
+        0.4940807521343231
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorRF_Paint_primitive0",
+      "bufferView": 297,
+      "componentType": 5126,
+      "count": 3761,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorRF_Paint_primitive0",
+      "bufferView": 298,
+      "componentType": 5126,
+      "count": 3761,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - DoorRF_Paint_primitive0",
+      "bufferView": 299,
+      "componentType": 5126,
+      "count": 3761,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorRF_Paint_primitive0",
+      "bufferView": 300,
+      "componentType": 5125,
+      "count": 6981,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (1)_primitive1",
+      "bufferView": 301,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "min": [
+        0.557903528213501,
+        -0.05796632543206215,
+        0.7898766398429871
+      ],
+      "max": [
+        0.8007009029388428,
+        0.5890403985977173,
+        1.4330168962478638
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (1)_primitive1",
+      "bufferView": 302,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (1)_primitive1",
+      "bufferView": 303,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (1)_primitive1",
+      "bufferView": 304,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (1)_primitive1",
+      "bufferView": 305,
+      "componentType": 5125,
+      "count": 3540,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Carbon1",
+      "bufferView": 306,
+      "componentType": 5126,
+      "count": 4843,
+      "type": "VEC3",
+      "min": [
+        -0.7749348282814026,
+        0.1446477621793747,
+        -1.9479743242263794
+      ],
+      "max": [
+        0.7749348282814026,
+        1.1309144496917725,
+        2.012091875076294
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Carbon1",
+      "bufferView": 307,
+      "componentType": 5126,
+      "count": 4843,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Carbon1",
+      "bufferView": 308,
+      "componentType": 5126,
+      "count": 4843,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Carbon1",
+      "bufferView": 310,
+      "componentType": 5125,
+      "count": 11478,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Caliper",
+      "bufferView": 311,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "min": [
+        0.5671368837356567,
+        0.11320587247610092,
+        0.9193447828292847
+      ],
+      "max": [
+        0.6964575052261353,
+        0.42449086904525757,
+        1.267054796218872
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Caliper",
+      "bufferView": 312,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Caliper",
+      "bufferView": 313,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Caliper",
+      "bufferView": 315,
+      "componentType": 5125,
+      "count": 4539,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Caliper (2)",
+      "bufferView": 316,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "min": [
+        0.5671368837356567,
+        0.11320587247610092,
+        0.9193447828292847
+      ],
+      "max": [
+        0.6964575052261353,
+        0.42449086904525757,
+        1.267054796218872
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Caliper (2)",
+      "bufferView": 317,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Caliper (2)",
+      "bufferView": 318,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Caliper (2)",
+      "bufferView": 320,
+      "componentType": 5125,
+      "count": 4539,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (7)_primitive1",
+      "bufferView": 321,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "min": [
+        0.557903528213501,
+        -0.05796632543206215,
+        0.7898766398429871
+      ],
+      "max": [
+        0.8007009029388428,
+        0.5890403985977173,
+        1.4330168962478638
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (7)_primitive1",
+      "bufferView": 322,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (7)_primitive1",
+      "bufferView": 323,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (7)_primitive1",
+      "bufferView": 324,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (7)_primitive1",
+      "bufferView": 325,
+      "componentType": 5125,
+      "count": 3540,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Tuerca3 (2)",
+      "bufferView": 326,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "min": [
+        0.6989443898200989,
+        0.20484435558319092,
+        1.0967888832092285
+      ],
+      "max": [
+        0.7095696926116943,
+        0.2222624570131302,
+        1.1149471998214722
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Tuerca3 (2)",
+      "bufferView": 327,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Tuerca3 (2)",
+      "bufferView": 328,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Tuerca3 (2)",
+      "bufferView": 329,
+      "componentType": 5126,
+      "count": 138,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Tuerca3 (2)",
+      "bufferView": 330,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - DoorLF_Paint_primitive0",
+      "bufferView": 331,
+      "componentType": 5126,
+      "count": 3543,
+      "type": "VEC3",
+      "min": [
+        0.6413307189941406,
+        0.20753905177116394,
+        -0.66769939661026
+      ],
+      "max": [
+        0.7801693677902222,
+        0.8009905219078064,
+        0.4941220283508301
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - DoorLF_Paint_primitive0",
+      "bufferView": 332,
+      "componentType": 5126,
+      "count": 3543,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - DoorLF_Paint_primitive0",
+      "bufferView": 333,
+      "componentType": 5126,
+      "count": 3543,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - DoorLF_Paint_primitive0",
+      "bufferView": 334,
+      "componentType": 5126,
+      "count": 3543,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - DoorLF_Paint_primitive0",
+      "bufferView": 335,
+      "componentType": 5125,
+      "count": 6981,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (5)_primitive0",
+      "bufferView": 336,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "min": [
+        0.5589415431022644,
+        0.017000362277030945,
+        0.8594481348991394
+      ],
+      "max": [
+        0.7970876693725586,
+        0.5208250880241394,
+        1.3634454011917114
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (5)_primitive0",
+      "bufferView": 337,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (5)_primitive0",
+      "bufferView": 338,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (5)_primitive0",
+      "bufferView": 339,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (5)_primitive0",
+      "bufferView": 340,
+      "componentType": 5125,
+      "count": 21687,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (3)_primitive1",
+      "bufferView": 341,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "min": [
+        0.557903528213501,
+        -0.05796632543206215,
+        0.7898766398429871
+      ],
+      "max": [
+        0.8007009029388428,
+        0.5890403985977173,
+        1.4330168962478638
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (3)_primitive1",
+      "bufferView": 342,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (3)_primitive1",
+      "bufferView": 343,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (3)_primitive1",
+      "bufferView": 344,
+      "componentType": 5126,
+      "count": 2697,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (3)_primitive1",
+      "bufferView": 345,
+      "componentType": 5125,
+      "count": 3540,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (7)_primitive0",
+      "bufferView": 346,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "min": [
+        0.5589415431022644,
+        0.017000362277030945,
+        0.8594481348991394
+      ],
+      "max": [
+        0.7970876693725586,
+        0.5208250880241394,
+        1.3634454011917114
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (7)_primitive0",
+      "bufferView": 347,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (7)_primitive0",
+      "bufferView": 348,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (7)_primitive0",
+      "bufferView": 349,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (7)_primitive0",
+      "bufferView": 350,
+      "componentType": 5125,
+      "count": 21687,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Paint",
+      "bufferView": 351,
+      "componentType": 5126,
+      "count": 21416,
+      "type": "VEC3",
+      "min": [
+        -0.7874729633331299,
+        0.12191180884838104,
+        -2.0132858753204346
+      ],
+      "max": [
+        0.7874729633331299,
+        1.1001887321472168,
+        2.0086236000061035
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Paint",
+      "bufferView": 352,
+      "componentType": 5126,
+      "count": 21416,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Paint",
+      "bufferView": 353,
+      "componentType": 5126,
+      "count": 21416,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Paint",
+      "bufferView": 354,
+      "componentType": 5126,
+      "count": 21416,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Paint",
+      "bufferView": 355,
+      "componentType": 5125,
+      "count": 48402,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (3)_primitive0",
+      "bufferView": 356,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "min": [
+        0.5589415431022644,
+        0.017000362277030945,
+        0.8594481348991394
+      ],
+      "max": [
+        0.7970876693725586,
+        0.5208250880241394,
+        1.3634454011917114
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (3)_primitive0",
+      "bufferView": 357,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (3)_primitive0",
+      "bufferView": 358,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (3)_primitive0",
+      "bufferView": 359,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (3)_primitive0",
+      "bufferView": 360,
+      "componentType": 5125,
+      "count": 21687,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Rueda (1)_primitive0",
+      "bufferView": 361,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "min": [
+        0.5589415431022644,
+        0.017000362277030945,
+        0.8594481348991394
+      ],
+      "max": [
+        0.7970876693725586,
+        0.5208250880241394,
+        1.3634454011917114
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Rueda (1)_primitive0",
+      "bufferView": 362,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Rueda (1)_primitive0",
+      "bufferView": 363,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Rueda (1)_primitive0",
+      "bufferView": 364,
+      "componentType": 5126,
+      "count": 15713,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Rueda (1)_primitive0",
+      "bufferView": 365,
+      "componentType": 5125,
+      "count": 21687,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Light",
+      "bufferView": 366,
+      "componentType": 5126,
+      "count": 20911,
+      "type": "VEC3",
+      "min": [
+        -0.751476526260376,
+        0.3311968445777893,
+        -1.882676601409912
+      ],
+      "max": [
+        0.751476526260376,
+        1.0452021360397339,
+        1.8574645519256592
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Light",
+      "bufferView": 367,
+      "componentType": 5126,
+      "count": 20911,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Light",
+      "bufferView": 368,
+      "componentType": 5126,
+      "count": 20911,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - Light",
+      "bufferView": 369,
+      "componentType": 5126,
+      "count": 20911,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv2 - Light",
+      "bufferView": 370,
+      "componentType": 5126,
+      "count": 20911,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Light",
+      "bufferView": 371,
+      "componentType": 5125,
+      "count": 47232,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Caliper (3)",
+      "bufferView": 372,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "min": [
+        0.5671368837356567,
+        0.11320587247610092,
+        0.9193447828292847
+      ],
+      "max": [
+        0.6964575052261353,
+        0.42449086904525757,
+        1.267054796218872
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Caliper (3)",
+      "bufferView": 373,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Caliper (3)",
+      "bufferView": 374,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Caliper (3)",
+      "bufferView": 376,
+      "componentType": 5125,
+      "count": 4539,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Coloured",
+      "bufferView": 377,
+      "componentType": 5126,
+      "count": 38208,
+      "type": "VEC3",
+      "min": [
+        -0.7830239534378052,
+        0.11746452003717422,
+        -2.0068631172180176
+      ],
+      "max": [
+        0.7830239534378052,
+        1.100188136100769,
+        2.0169007778167725
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Coloured",
+      "bufferView": 378,
+      "componentType": 5126,
+      "count": 38208,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - Coloured",
+      "bufferView": 379,
+      "componentType": 5126,
+      "count": 38208,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Coloured",
+      "bufferView": 381,
+      "componentType": 5125,
+      "count": 67056,
+      "type": "SCALAR",
+      "byteOffset": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "default material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3288090062081349
+      }
+    },
+    {
+      "name": "Cube1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3288090062081349
+      }
+    },
+    {
+      "name": "ground",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.029093588736842715,
+          0.0018486197894500653,
+          0.0018486197894500653,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3288090062081349
+      }
+    },
+    {
+      "name": "cube",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3288090062081349
+      }
+    },
+    {
+      "name": "Window1",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.0274509825,
+        0.0274509825,
+        0.0274509825
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0274509825,
+          0.0274509825,
+          0.0274509825,
+          0.7
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.240331292
+      }
+    },
+    {
+      "name": "CSR2_Base1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.450053632
+      }
+    },
+    {
+      "name": "CSR2_Coloured1",
+      "emissiveFactor": [
+        0.0196078438,
+        0.0196078438,
+        0.0196078438
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0196078438,
+          0.0196078438,
+          0.0196078438,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.328809023
+      }
+    },
+    {
+      "name": "WindowDark1",
+      "emissiveFactor": [
+        0.0196078438,
+        0.0196078438,
+        0.0196078438
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0196078438,
+          0.0196078438,
+          0.0196078438,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.240331292
+      }
+    },
+    {
+      "name": "CSR2_Carbon2",
+      "emissiveFactor": [
+        0.0156862754,
+        0.0156862754,
+        0.0156862754
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0156862754,
+          0.0156862754,
+          0.0156862754,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3048167
+      }
+    },
+    {
+      "name": "lit",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.450053632
+      }
+    },
+    {
+      "name": "GlassRed1",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.196078449,
+        0,
+        0
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.196078449,
+          0,
+          0,
+          0.849999964
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3048167
+      }
+    },
+    {
+      "name": "calliper",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.450053632
+      }
+    },
+    {
+      "name": "CSR2_Grille8",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      },
+      "normalTexture": {
+        "index": 9,
+        "texCoord": 0
+      }
+    },
+    {
+      "name": "CSR2_Grille12",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      },
+      "normalTexture": {
+        "index": 4,
+        "texCoord": 0
+      }
+    },
+    {
+      "name": "OEM_BMW_Carbon_2",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      }
+    },
+    {
+      "name": "CSR2_InteriorA1",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      },
+      "normalTexture": {
+        "index": 6,
+        "texCoord": 0
+      }
+    },
+    {
+      "name": "CSR2_Badge1",
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 7,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      },
+      "normalTexture": {
+        "index": 12,
+        "texCoord": 0
+      }
+    },
+    {
+      "name": "CSR2_Wheel2B_Rim",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 8,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      },
+      "normalTexture": {
+        "index": 13,
+        "texCoord": 0
+      }
+    },
+    {
+      "name": "CSR2_Light1",
+      "emissiveFactor": [
+        0.0196078438,
+        0.0196078438,
+        0.0196078438
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 10,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      }
+    },
+    {
+      "name": "CSR2_Wheel2B_Tire",
+      "emissiveFactor": [
+        0.588,
+        0.588,
+        0.588
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "metallicRoughnessTexture": {
+          "index": 5,
+          "texCoord": 0
+        },
+        "baseColorTexture": {
+          "index": 11,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.207408592
+      },
+      "normalTexture": {
+        "index": 14,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 15,
+        "texCoord": 0,
+        "strength": 1
+      }
+    },
+    {
+      "name": "CSR2_CarPaint1",
+      "emissiveFactor": [
+        0.023529411764705882,
+        0.06666666666666667,
+        0.792156862745098
+      ],
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.07450980392156863,
+          0.07450980392156863,
+          0.03137254901960784,
+          0.3
+        ],
+        "metallicRoughnessTexture": {
+          "index": 17,
+          "texCoord": 0
+        },
+        "baseColorTexture": {
+          "index": 18,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.450053632
+      },
+      "normalTexture": {
+        "index": 19,
+        "texCoord": 0
+      }
+    },
+    {
+      "name": "CarroceriaPBR",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.38823529411764707,
+          0.23921568627450981,
+          0.23921568627450981,
+          1
+        ],
+        "metallicRoughnessTexture": {
+          "index": 16,
+          "texCoord": 0
+        },
+        "baseColorTexture": {
+          "index": 20,
+          "texCoord": 0
+        }
+      },
+      "occlusionTexture": {
+        "index": 21,
+        "texCoord": 0,
+        "strength": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "Grille1_diff_alpha_Grille1_opac",
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "name": "Grille6_diff_alpha_Grille6_opac",
+      "sampler": 0
+    },
+    {
+      "source": 2,
+      "name": "OEM_BMW_Carbon_1_diff_alpha_OEM_BMW_Carbon_1_opac",
+      "sampler": 0
+    },
+    {
+      "source": 3,
+      "name": "Interior_diff_alpha_Interior_opac",
+      "sampler": 0
+    },
+    {
+      "source": 4,
+      "name": "Grille6_nrml",
+      "sampler": 0
+    },
+    {
+      "source": 5,
+      "name": "TexturesCom_Various_TireCar_1K_roughness",
+      "sampler": 0
+    },
+    {
+      "source": 6,
+      "name": "Interior_nrml",
+      "sampler": 0
+    },
+    {
+      "source": 7,
+      "name": "Badge_diff_alpha_Badge_opac",
+      "sampler": 0
+    },
+    {
+      "source": 8,
+      "name": "Wheel2B_diff",
+      "sampler": 0
+    },
+    {
+      "source": 9,
+      "name": "Grille1_nrml",
+      "sampler": 0
+    },
+    {
+      "source": 10,
+      "name": "Light_diff",
+      "sampler": 0
+    },
+    {
+      "source": 11,
+      "name": "TexturesCom_Various_TireCar_1K_albedo",
+      "sampler": 0
+    },
+    {
+      "source": 12,
+      "name": "Badge_nrml",
+      "sampler": 0
+    },
+    {
+      "source": 13,
+      "name": "Wheel2A_nrml",
+      "sampler": 0
+    },
+    {
+      "source": 14,
+      "name": "TexturesCom_Various_TireCar_1K_normal",
+      "sampler": 0
+    },
+    {
+      "source": 15,
+      "name": "TexturesCom_Various_TireCar_1K_ao",
+      "sampler": 0
+    },
+    {
+      "source": 16,
+      "name": "Metal032_2K_Roughness",
+      "sampler": 0
+    },
+    {
+      "source": 16,
+      "name": "Metal032_2K_Roughness",
+      "sampler": 0
+    },
+    {
+      "source": 17,
+      "name": "Metal032_2K_Color",
+      "sampler": 0
+    },
+    {
+      "source": 18,
+      "name": "Metal032_2K_NormalGL",
+      "sampler": 0
+    },
+    {
+      "source": 17,
+      "name": "Metal032_2K_Color",
+      "sampler": 0
+    },
+    {
+      "source": 19,
+      "name": "Metal032_2K_Displacement",
+      "sampler": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "images": [
+    {
+      "name": "Grille1_diff_alpha_Grille1_opac",
+      "uri": "Grille1_diff_alpha_Grille1_opac.png"
+    },
+    {
+      "name": "Grille6_diff_alpha_Grille6_opac",
+      "uri": "Grille6_diff_alpha_Grille6_opac.png"
+    },
+    {
+      "name": "OEM_BMW_Carbon_1_diff_alpha_OEM_BMW_Carbon_1_opac",
+      "uri": "OEM_BMW_Carbon_1_diff_alpha_OEM_BMW_Carbon_1_opac.png"
+    },
+    {
+      "name": "Interior_diff_alpha_Interior_opac",
+      "uri": "Interior_diff_alpha_Interior_opac.png"
+    },
+    {
+      "name": "Grille6_nrml",
+      "uri": "Grille6_nrml.png"
+    },
+    {
+      "name": "TexturesCom_Various_TireCar_1K_roughness",
+      "uri": "TexturesCom_Various_TireCar_1K_roughness.png"
+    },
+    {
+      "name": "Interior_nrml",
+      "uri": "Interior_nrml.png"
+    },
+    {
+      "name": "Badge_diff_alpha_Badge_opac",
+      "uri": "Badge_diff_alpha_Badge_opac.png"
+    },
+    {
+      "name": "Wheel2B_diff",
+      "uri": "Wheel2B_diff.png"
+    },
+    {
+      "name": "Grille1_nrml",
+      "uri": "Grille1_nrml.png"
+    },
+    {
+      "name": "Light_diff",
+      "uri": "Light_diff.png"
+    },
+    {
+      "name": "TexturesCom_Various_TireCar_1K_albedo",
+      "uri": "TexturesCom_Various_TireCar_1K_albedo.png"
+    },
+    {
+      "name": "Badge_nrml",
+      "uri": "Badge_nrml.png"
+    },
+    {
+      "name": "Wheel2A_nrml",
+      "uri": "Wheel2A_nrml.png"
+    },
+    {
+      "name": "TexturesCom_Various_TireCar_1K_normal",
+      "uri": "TexturesCom_Various_TireCar_1K_normal.png"
+    },
+    {
+      "name": "TexturesCom_Various_TireCar_1K_ao",
+      "uri": "TexturesCom_Various_TireCar_1K_ao.png"
+    },
+    {
+      "name": "Metal032_2K_Roughness",
+      "uri": "Metal032_2K_Roughness.png"
+    },
+    {
+      "name": "Metal032_2K_Color",
+      "uri": "Metal032_2K_Color.png"
+    },
+    {
+      "name": "Metal032_2K_NormalGL",
+      "uri": "Metal032_2K_NormalGL.png"
+    },
+    {
+      "name": "Metal032_2K_Displacement",
+      "uri": "Metal032_2K_Displacement.png"
+    }
+  ]
+}
